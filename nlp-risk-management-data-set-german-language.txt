@@ -1,0 +1,102 @@
+Schnittstelle des Lieferanten weicht von der abgestimmten API-Spezifikation ab - Korrektur dauert zwischen 2 und 3 Wochen.	1
+content team schließt partnerschaft wodurch aufwand für content produktion sinkt	0
+Integration Testing startet nur mit Verzögerung, weil Dev und Prod nicht identisch sind (konkret: Abweichung in Virtualisierung)	1
+Wenn DVG in Karft tritt, ist mit einer beschleunigten Zertifizierung der app als Medizinprodukt zu rechnen (ab ca. Mitte 2020)	0
+Geschäftsführung schließt Vertrag mit strategischem partner und es entsteht weitere umsatzquelle	0
+CAC steigen wegen EuGH-Urteil zu Cookies	1
+analyse von mvp daten zeigt bisher unbekannte marktpotenziale	0
+Freigabe neuer Produkte verzögert sich aufgrund MDR bzw. nur weniger benannter Stellen	1
+Produkt roadmap wird von investment committee nicht akzeptiert	1
+gdpr ist chance für positionierungg als vertrauenswürdiges unternehmeb	0
+freelancer hat zugelieferte klassen noch in Python 2 implementiert und kann sie nicht schnell genug auf Python 3 heben	1
+DPMA lehnt Eintragung der Wortmarke für Digitalprodukt ab	1
+Vortrag der geschäftsführung zu Erfahrunggen auf Digitalkonferenz ist zu früh und macht wettbewerb aufmerksam	1
+GDPR wird als Chance begriffen und erlaubt Positionierung über Ethical AI u.ä.	0
+Zusätzliche Erkältungswelle im Winter bringt erhöhten Traffic und steigert Bestellvolumen	0
+Digitalprodukt als kostenlose Beigabe fördertt Absatz des materiellen Produkts	0
+bestehenderr kontakt zu startup magazinen hilft bei sicherung der bekanttheit für nächste finanzierungsrunde	0
+MVP bietet vor kunde keinen ausreichenden nutzen was zu schwächerem hochlauf führt	1
+Märkte in AT und CH sind stille reserve für rollout ab mitte 2020	0
+machine learning verfahren werden nur verzögert implementiert bzw. auf produktion gebracht	1
+Verzögerungg bei Lieferung der UX-Elemente hat Schubstangeneffekt auf Launch-Termin des MVP	1
+Zulieferung des Vorprodukts enthält kein CE-Prüfzeichen und erfüllt damit nicht die gesetzlichen Anforderungen in Deutschland.	1
+Zielmarke erreicht nicth rechtzeitig den rechtlichen Schutz, um sie nutzen zu können	1
+Produktion von content kann durch externe Kräfte beschleunigt werden	0
+Größere Mengen im Einkauf der Vorprodukte reduziert Stückkosten	0
+Resturlaub wird zum Jahresende abgebaut und Team ist nur noch eingeschränkt im Einsatz	1
+Kooperation mit Partner bzw. Influencer bringt zusätzliche Reichweite in Social Media	0
+Vertrieb über medizinische Fachkräfte aus rechtlichen Gründen ggf. nicht zulässig	1
+Kooperation mit Arzneimittelhersteller reduziert produktionskosten für folgeprodukt	0
+Lagerkosten: Reduzierung durch Outsourcing möglich	0
+steigender cpa bzw. cps vershclechtert den case	1
+datengetriebene produktentwicklung differenziert unternehmen vom wettbewerb und bei partnern	0
+verhandlung mit strat. Partner geht schneller	0
+Produkt roadmap wird durch management top down kurzfristig umgestellt	1
+Differenzierung der Preispunkte sind für Kunden nicht nachvollziehbar/ nur schwierig zu verstehen, was Umsatz limitiert	1
+Finanzierungsrunde ist mir höherer Bewertung umsetzbar und bringt mehr finanziellen Spielraum	0
+System-Integration braucht mehr Aufmerksamkeit bzw. Aufwand und resultiert  in Schubstange	1
+benannte stellen haben nicht genügend kapazität, um produkte nach mdr zu prüfen	1
+Bereitstellung von Vorprodukten verzögert sich aufgrund von Logistikproblemen	1
+Recruiting in 2020 dauert länger als geplant und es fehlen insb. Entwickler-Ressourcen	1
+Fertigstellung der AGB verzögert sich bzw. den Launch	1
+Bekannte Sportler stellen Produkt nach Verletzung vor	0
+Partnering-Strategie kann dazu führen, dass potenzielle Partner sich im Wettbewerb zu anderen Partnern sehen und nicht teilnehmen	1
+Anpassung der datenschutzerklärung bzw. juristische freigabe braucht länger	1
+Marktresonanz auf MVP ist nicht ausreichend und Umsätze bleiben hinter Erwartungen	1
+Höhere Mengeb führen zu reduzierten Stückpreisen	0
+agile entwicklung erfordert education auf investoren seite um committment zu behalten	1
+dvg schafft einen neuen markt den wir nutzen können	0
+Neuer Experte für Wareneinkauf erreicth weitere Effizienzen	0
+Ab zweitem Produkt greifen Lerneffekte wodurch die Iterationen effektiver bzw. effizienter werden	0
+Fehlendes CE-Prüfzeichen auf Vorprodukt könnte rechtliche Risiken haben, Klärung durch Jurist noch offen	1
+aufbau von content netzwerk reduziert cost per cllick bzw. cost per sale	0
+reduktion der kosten im wareneinkauf durch größere mengen realisierbar	0
+dvg wird durch bundesrat verabschiedet und tritt für 2020 in Kraft	0
+Chance auf Zusatzgeschäft im Bereich Beta lässt sich realisieren	0
+Genehmigung für Arzeinmittelangebot liegt zwei Wochen früher als erwartet	0
+Pricing wird nicht angenommen	1
+Absatz der digitalprodukte steigt stärker bzw. schneller und verbessert deckungsbeitrag	0
+Neue Kooperation mit Anbieter in Zielsegment öffnet Türen für neue Gespräche	0
+management erwartungen sind nicht transparent und resultieren in roadmap änderungen	1
+auslieferung der kampagne auf google oderr facebook verzögert sich mehr als 5 tage	1
+mdr limitiert wachstum des markts	1
+CLV kann gesteigert werden durch Zusatzprodukte mit höher Verbrauchsfrequenz (FMCG)	0
+Optimierung click through rate aufgrund copy daten analyse wahrscheinlich möglich	0
+cost per click lässt sich reduzieren auf basis von learnings aus ersten kampagnen	0
+pilotphase im vertrieb läuft schneller hoch und ermöglicht früher mehr kundenfeedbak	0
+umsetzung des eugh urteils erfordert anpassungen am frontend und binden kapazität bei ui entwicklern	1
+"ansatz ""unter dem radar"" funktioniert nicht auf zeitvorteil ggü. wettbewerb geht verloren"	1
+geschäftsführung erreeicht mit neu investor keine einigung über bewertung und finanzierungsrunde verzögert sicht	1
+kapazitätsengpass im backend verzögert umsetzung der migration	1
+ethical ai wird als grundlage der implementtierung nützlicher eckpfeiler (inkl. eu richtlinien)	0
+Krankheit im Team aufgrund Grippewelle resultiert in langsamerer Implementierung von UI	1
+customer service erkenntnisse fließen nicht systematisch genug in die entwicklung ein	1
+aufwand für gewinnung von partnern sinkt aufgrund steigender bekanntheit	0
+wettbewerb um suchmaschinen keywords ist härter als erwartet wodurch cpc steigt	1
+risiko dass cost per sale höher wird als im bc erwartet	1
+Framework für chat bot als open source verfügbar - daher geringere aufwände der entwicklung	0
+Hochlauf des MVP geht schneller	0
+feedback aus kundenservice hilft uns bei verbesserung des produkts (product market fit)	0
+verzögerte lieferung der illustrationen führ tzu späterem launch der zielmarke	1
+Vertriebliche Reichweite lässt sich strategischen Partner steigern	0
+Aufwand im Kundensupport steigt nach Start der Pilotphase im Vertrieb stärker als geplant	1
+Schnittstelle zu Paketzusteller: Abweichende Spezifikation bzw. Implementierung resultiert in Verzögerung der System-Tests	1
+Erhöhen der ctr nach auswertung der kampagnen daten möglichen	0
+Geschäftsführung kann partnerignverträge schneller abschließen als angenommen	0
+Artifical Morality noch nicht ausreichend diskutiert	1
+ui entwickler entscheiden sich zu spät zwishen bootstrap und foundation was ressourcen verschwendet	1
+weitere ui entwicklung  kann komplett auf smartphone fokussiert werden	0
+Cookie-basiertes Targeting ist spätestens in Q1/2020 komplett kaputt 8vgl. EuGh	1
+Deployment erst ab Montag im Test, Verzögerung >3 Tage führt zu Schubstange, Mitigation kaum machbar	1
+click through rate steigt mit grad der gelernten anzeigen copy	0
+Missverständnisse aufgrund sprachbarriere mit off shore entwicklern (vor allem ui)	1
+outsourcing des wawi betriebs schafft intern freie kapazität die für new business genutzt werden kann	0
+Lieferadresse der kunden wird im frontend nicht korrekt überprüft, weil mehrdeutigkeit	1
+Migration von Google Cloud zu AWS erfordert Spezialisten der am Markt bis Jahresende fast nicht verfügbar ist	1
+Training der Klassifikatoren dauert länger (Optimierung der Hyperparameter)	1
+Stadnards aus Gutachten der Datenethikkommission können Diskussionen um Implementierung fokussieren	0
+Ethical AI gewinnt in den nächsten Monaten weiter an Bedeutung und bietet Chancen zur Positionierung	0
+Geringere Burnrate ermöglicht zu Jahresende noch Testen weiterer User Interfaces	0
+Versicherung für Produkthaftung wird vermutlich günstiger als im Business Case ursprpünglich angenommen	0
+verschleiß der vorprodukte ist geringer als im case angenommen	0
+ci pipeline reduziert zukünftige aufwände für update rollout	0
