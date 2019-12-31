@@ -1,8 +1,8 @@
-Schnittstelle des Lieferanten weicht von der abgestimmten API-Spezifikation ab - Korrektur dauert zwischen 2 und 3 Wochen.	1
-content team schließt partnerschaft wodurch aufwand für content produktion sinkt	0
-Integration Testing startet nur mit Verzögerung, weil Dev und Prod nicht identisch sind (konkret: Abweichung in Virtualisierung)	1
-Wenn DVG in Karft tritt, ist mit einer beschleunigten Zertifizierung der app als Medizinprodukt zu rechnen (ab ca. Mitte 2020)	0
-Geschäftsführung schließt Vertrag mit strategischem partner und es entsteht weitere umsatzquelle	0
+Design der NEM-Dose testet in neuer Version besser in Zielgruppe	0
+Stückkosten je NEM-Dose wahrscheinlich 5 Cent niedriger als im BC hinterlegt	0
+Kundenlinien für Backend-Skalierung und Marketing-Kampagne weichen voneinander ab	1
+Cost per Sale kann durch vermehrten Einsatz von FBA gesenkt werden	0
+Beschleunigtes Verafhren zur Freigabe von Rechnungen erhöht Prozesseffizienz	0
 CAC steigen wegen EuGH-Urteil zu Cookies	1
 analyse von mvp daten zeigt bisher unbekannte marktpotenziale	0
 Freigabe neuer Produkte verzögert sich aufgrund MDR bzw. nur weniger benannter Stellen	1
@@ -53,7 +53,7 @@ aufbau von content netzwerk reduziert cost per cllick bzw. cost per sale	0
 reduktion der kosten im wareneinkauf durch größere mengen realisierbar	0
 dvg wird durch bundesrat verabschiedet und tritt für 2020 in Kraft	0
 Chance auf Zusatzgeschäft im Bereich Beta lässt sich realisieren	0
-Genehmigung für Arzeinmittelangebot liegt zwei Wochen früher als erwartet	0
+Genehmigung für Arzeinmittelangebot liegt zwei Wochen früher vor als erwartet	0
 Pricing wird nicht angenommen	1
 Absatz der digitalprodukte steigt stärker bzw. schneller und verbessert deckungsbeitrag	0
 Neue Kooperation mit Anbieter in Zielsegment öffnet Türen für neue Gespräche	0
@@ -65,7 +65,7 @@ Optimierung click through rate aufgrund copy daten analyse wahrscheinlich möglic
 cost per click lässt sich reduzieren auf basis von learnings aus ersten kampagnen	0
 pilotphase im vertrieb läuft schneller hoch und ermöglicht früher mehr kundenfeedbak	0
 umsetzung des eugh urteils erfordert anpassungen am frontend und binden kapazität bei ui entwicklern	1
-"ansatz ""unter dem radar"" funktioniert nicht auf zeitvorteil ggü. wettbewerb geht verloren"	1
+"ansatz ""unter dem radar"" funktioniert nicht und zeitvorteil ggü. wettbewerb geht verloren"	1
 geschäftsführung erreeicht mit neu investor keine einigung über bewertung und finanzierungsrunde verzögert sicht	1
 kapazitätsengpass im backend verzögert umsetzung der migration	1
 ethical ai wird als grundlage der implementtierung nützlicher eckpfeiler (inkl. eu richtlinien)	0
@@ -78,18 +78,18 @@ Framework für chat bot als open source verfügbar - daher geringere aufwände der 
 Hochlauf des MVP geht schneller	0
 feedback aus kundenservice hilft uns bei verbesserung des produkts (product market fit)	0
 verzögerte lieferung der illustrationen führ tzu späterem launch der zielmarke	1
-Vertriebliche Reichweite lässt sich strategischen Partner steigern	0
+Vertriebliche Reichweite lässt sich durch strategischen Partner steigern	0
 Aufwand im Kundensupport steigt nach Start der Pilotphase im Vertrieb stärker als geplant	1
 Schnittstelle zu Paketzusteller: Abweichende Spezifikation bzw. Implementierung resultiert in Verzögerung der System-Tests	1
-Erhöhen der ctr nach auswertung der kampagnen daten möglichen	0
+Erhöhen der ctr nach auswertung der kampagnen daten möglich	0
 Geschäftsführung kann partnerignverträge schneller abschließen als angenommen	0
 Artifical Morality noch nicht ausreichend diskutiert	1
 ui entwickler entscheiden sich zu spät zwishen bootstrap und foundation was ressourcen verschwendet	1
 weitere ui entwicklung  kann komplett auf smartphone fokussiert werden	0
-Cookie-basiertes Targeting ist spätestens in Q1/2020 komplett kaputt 8vgl. EuGh	1
-Deployment erst ab Montag im Test, Verzögerung >3 Tage führt zu Schubstange, Mitigation kaum machbar	1
-click through rate steigt mit grad der gelernten anzeigen copy	0
-Missverständnisse aufgrund sprachbarriere mit off shore entwicklern (vor allem ui)	1
+Cookie-basiertes Targeting ist spätestens in Q1/2020 komplett kaputt wegen EuGh	1
+Rechtliche Zulassung für NEM-Produkt liegt wahrscheinlich erst Mitte Dezember 2019 vor	1
+Reuters-128 und IMDb-Reviews reichen nur für erstes Training auf englischen Daten und wir brauchen deutsche Datensätze	1
+Targeting Systeme laufen leer aufgrund EuGh Entscheidung zu Cookies	1
 outsourcing des wawi betriebs schafft intern freie kapazität die für new business genutzt werden kann	0
 Lieferadresse der kunden wird im frontend nicht korrekt überprüft, weil mehrdeutigkeit	1
 Migration von Google Cloud zu AWS erfordert Spezialisten der am Markt bis Jahresende fast nicht verfügbar ist	1
@@ -100,3 +100,301 @@ Geringere Burnrate ermöglicht zu Jahresende noch Testen weiterer User Interfaces
 Versicherung für Produkthaftung wird vermutlich günstiger als im Business Case ursprpünglich angenommen	0
 verschleiß der vorprodukte ist geringer als im case angenommen	0
 ci pipeline reduziert zukünftige aufwände für update rollout	0
+sunrise feature in chatbot mvp erhöht aufwand um ca. 10 personentage plus ggf. weitere testing aufwände	1
+Das konsolidierte UI-Kit kann On-Boarding der neuen Teammitglieder beschleunigen.	0
+Kosten der Verpackung lassen sich durch weglassen der Umverpackung weiter reduzieren.	0
+Business Case wird nicht fristgerecht fertig und Investorenansprache verzögert sich	1
+Wettbewerber integrieren vertikal und erweitern ihre bProdukte um Dienste für vor- und/oder nachgelagerte Stufen der Wertkette. 	1
+Neue Ressourcen ab März 2020 erhöhen Produktivität im Produktteam	0
+Geschätfsführung entscheidet bereits im Januar über Variante bzgl. Partnering	0
+Berater für Befragung liefert im Dezember nur verzögert wegen fehlender Mitarbeiter	1
+SEO-Agentur schickt Input zur Marketing-Strategie bereits nächste Woche, dadurch Beschleunigung der Startegiediskussion	0
+Investoren verstehen Business Case nicht und benötigten zusätzliche Termine zur Erklärung	1
+Datengetriebenes vorgehen unserer produktentwicklung ist auf andere märkte bzw. branchen übertragbar	0
+Growth Hypothese trägt nicht durcch aufgrund geringerer Inzidenzzahlen	1
+Partnering erhöht Attraktivität des Angebots	0
+Bei ungleicher regionaler Nachfrage müssen Ausgleiche zwischen Lager 1 und Lager 2 aufgesetzt werden	1
+Erheben von Social Proof könnte sich verzögern wegen geringerer Rücklaufquote	1
+anorganischer traffic bleibt konstant wie in den vorwochen	0
+senken des aufwands zur content produktion durch syndizierung möglich	0
+Neue Kontakte aus Vortrag bei Event	0
+Landing Page in Kampagne 6 erfordert neue Grafiken, die im UX-Team nicht geplant sind	1
+Facebook-Kampagnen tendenziell etwas günstiger als im Case angenommen	0
+Die Leistungsfähigkeit der automatischen Verfahren ist ex ante nicht vollständig einschätzbar (Erfahrungsguteigenschaften). 	1
+Zusätzliche Checkbox im Checkout für Kundenbefragung bzw. Bewertung erhöht Abbruchrate	1
+Analytics System für weitere Produkte verwertbar	0
+Kundenservice kann ggf. erst ab Oktober hochfahren, Hotline muss so lange noch zurückgehalten werden	1
+Prozesse in Lager 1 und 2 noch nicht synchronisiert	1
+Unterschiedliche Mehrwertsteuersätze auf B-Vorprodukten sind Risiko in Liquiditätsplanung	1
+Transparenz über EVP ist ggf. Chance im B2C-Anteil	0
+Influencer aus Motorcross ist Chance für Iteration 5	0
+Datengrundlage zur Verbesserung der Usability unserer Websites wird durch EuGH deutlich schlechter	1
+Strategischer Investor kommt bereits in Q3/2020 an Bord aufgrund schnelleren Hochlaufs	0
+Consent Manager wird durch Kanzlei schon bis Mitte November freigegeben	0
+Multi-Site-CMS kann Aufwand für Content Management reduzieren	0
+Verschlüsselung der KD verlangsamt Analytics Geschwindigkeit	1
+modelle zur klassifikation von kunden erreichen nur accuracy werte von unter 85 und erfordern mehr hyperparameter tuning	1
+Finalisierung der Produktfotos ist vermutlich schon diese Woche fertig	0
+Bei DPMA geht kein Widerspruch ein und Prozess geht positiv aus	0
+Geschäftsführung besteth auf erneutes Testing des Sunrise-Features	1
+Persona bzw. ihre Empathy Map müssen nochmal überarbeitet werden	1
+Erster Partner könnte bereits zu Mitte Anfang Januar auf die Plattformen kommen	0
+A/B-Tests der neuen Preispunkte wird durch Produktvarianten vermutlich komplexer	1
+Verständnis für Methoden der agilen Produktentwicklung kann im Team nicht schnell genug harmonisiert werden	1
+Zusätzliche Entwickler für Python übernehmen Implementierung weiterer ML-Verfahren	0
+Unnötig komplizierte Abhängigkeiten zwischen Plattformkomponenten müssen noch entzerrt werden	1
+Werte im Team schaffen langfristig starken Zusammenhang	0
+Österreich und Schweiz können ggf. schon ab Q4/2020 erschlossen werden	0
+Freigabe der Labels für NEM in Iteration dauert wegen rechtlicher Vorgaben evtl. etwas länger	1
+Konzentration auf Android Hero Devices würde Fokus der Tests ermöglichen und sie beschleunigen	0
+UI-Kit beschleunigt zukünftige Markttests der weiteren Produkte	0
+Die Infrastruktur skaliert nicht in ausreichendem Maß, so dass Engpässe bei steigender Nutzerzahl entstehen. 	1
+Notar macht Fehler in Gesellschaftsvertrag, wodurch sich HR-Eintragung der neuen operativen GmbH verzögert	1
+Style Guide mit ersten visuellen Rahmenbedingungen bereits nächste Woche zur Freigabe in GF-Meeting	0
+Produktbündel mit NEM und TM in Produktion für MVP ggf. zu komplex und Vereinfachung nötig	1
+Risiko bzgl. Planungsansätze und fehlender Details über Dienstleisterpläne	1
+Zulassung aus berufsständischer Verordnung formal noch sicherzustellen, daher Risiko bis Erteilung	1
+Anbindung von Consent Manager kann Agentur übernehmen, dadurch freie interne Ressourcen	0
+Vertriebszeiten werden verkürzt und Konversionsrate gesteigert durch Datenbank mit Nutzern aus der Test-Phase	0
+Freigabe des Pitch Decks verzögert Ansprache potenzieller Investoren für nächtse Finanzirungsrunde	1
+Im Team etablierte Kultur hilft bei Skalierung bzw. Einstellener neuer Mitarbeiterinnen und Mitarbeiter	0
+Freigabe der Liste mit Android Hero Devices noch nicht vorliegend	1
+Investment Committee musste Review Meeting verschieben, dadurch verzögerte Freigabe für Einkauf	1
+Höherer Deckungsbeitrag möglich bei Kombination mit Digitalprodukt	0
+B2B-Plattformanteil wird entwickelt bevor Feedback aus Markt zu B2C-Anteil vorliegt und bindet unnötig Ressourcen	1
+Produktfotos aus Minimum Viable Product sind von der Qualität her so gut, dass sie auch für GoLive taugen	0
+Berater aus Unfallchirurgie ist im Dezember nur sehr einschgeschränkt verfügbar	1
+Conversion Rate könnte sinken falls Landing Page länger/ umfangreicher wird	1
+Chance auf Senken des Aufwands für Partner-Onboarding in der Kategorie SD	0
+Übertragung der Assets von Projekt-GmbHs auf operative GmbHs geht wg. vorbereiteter Einigungen schneller	0
+interesse bei partnern zieht bereits in 12/2019 an und onboarding könnte bereits im januar 2020 starten	0
+Bisher nicht erfasstes Umsatzpotenziel aus SSE-Inzidenzen	0
+Google Backend bereits nächte Woche einsatzbereit so dass früherer Umzug möglich wäre	0
+User Experience Tests bringen neue Ideen für zusätzliche Produkte hervor, folglich Chance für Cross-Selling	0
+Re-Targeting auf der Basis von Cookies wird zunehmend weniger sinnvoll einsetzbar sein	1
+Kooperation mit Partner erhöht Deckungsbeitrag des materiellen Produkts	0
+Aufbau einer App je Krankheitsbild kann stärkere Nutzerbindung schaffen als generische App	0
+Freigabe seitens Rechtsanwalt liegt schon am Montag vor	0
+ecommerce backend ist nur auf maximal 50.000 zugriffe am tag ausgelegt und erfordert anpassung im späteren hochlauf	1
+neue mitarbeiterin ab Q1/2020 übernimmt bisherige aufgaben in der modelentwicklung	0
+Qualität der zugelieferten Vorprodukte zu geringg, so dass Nacharbeit erforderlich ist	1
+Gespräche mit Bewerbern können bereits zu Anfang März 2020 aufgeplantt werden wegen InvZusage	0
+Entkoppeln von B2C und B2B Anteil der Plattform senkt Kostenrisiko	0
+Fokus auf MVP-Zielgruppe (Iteration 1 und 2) könnte Attraktivität für Partner steigen, da umsatzstarkes Segment	0
+Cross-Selling von Produkten könnte um ein paar Prozentpunkte höher sein als im Business Case hinterlegt	0
+"Wachsende Zahlungsbereitschaft von Endkunden für Gesundheitsdienstleistungen (""zweiter Gesundheitsmarkt"")"	0
+Codebase bei Übernahme wackelig	1
+Heterogenität der Android-Versionen bzw. Endgeräte verlangsamt das Testing	1
+Erster Test des Chatbots kann ggf. zehn Tage früher starten, wenn wir das Sunrise-Feature weglassen	0
+Produktion der NEM könnte für das MVP bereits im Februar 2020 beginnen, falls Hersteller die Kapazität hat	0
+Im Checkout ist Einwilligung bzgl. Feedback-Mail rechtlich erforderlich, kann jedoch Warenkorb-Abbrüche erhöhen	1
+Hochlauf des Partner-Ökosystems verzögert sich aufgrund von Problemen in der technischen Anbindung	1
+Lagerkapazitäten können durch unmittelbaren Wiederversand nach Wareneingang effizienter genutzt werden	0
+Deckungsbeitrag steigt durch erhöhten Absatz des Digitalprodukts weiter an	0
+MVP ist in Iteration 1 zu komplex bzw. wird von Pilotkunden nicht ausreichend verstanden	1
+Einbindung des Consent Managers erfordert Anpassung der JavaScript Ausspielung und hat Seiteneffekte	1
+Effizienzgewinne aus Beteiligung von strategischem Investor in Q4/2020 realisierbar	0
+Büroräume reichen nur noch bis ca. Ende Mai 2020	1
+Wirtschaftsprüfung liefert ihre Dokumente bereits diesen Freitag an die Geschäftsführung	0
+Launch-Event im Mai 2020 bindet zu viele Kapazitäten im Team	1
+Algorithmen zur Preisanalyse in B2B-Anteil sind robuster als in ursprünglicher zeitplanung angenommen	0
+generierung von organischem Traffic verzögert sich aufgrund späteren launches der content sites	1
+anteil des organischen traffic ist bis auf weiteres bei unter 35%	1
+Gegenseitige Erwartungen von Technik und Produkt weichen ab	1
+Kostenreduktion um ca. 25 Prozent im Einkauf realisierbar	0
+Entwicklungsumgebung muss kurz vor Weihnachten umgebaut werden	1
+Produktionsumgebung ist diese Woche für mind. 24 Stunden offline wegen Umzug	1
+Partner zeigen Interesse an Zulieferung von Content für Gesundheitsthemen	0
+vertragliche anpassung der AGB erfordertz zusätzliche Aufwand für Abstimmung zwischen Technik, Anwalt und Geschäftsführung	1
+Verstärkkung im Produkt-Team ab Q1/2020 schafft Freiraum für strategische Diskussionen	0
+MDR Prozess aufgrund mitarbeiter mit fokus auf neuer richtlinie schneller umsetzbar	0
+UI-Framework wegen Bugs neu zu wählen	1
+Lasttest auf Produktion verzögert sich	1
+UI-Funktionalitäten aus MVP (B2C) können in finaler Version für Marktlaunch wiederverwendet werden	0
+Kunststoffqualität braucht weitere Schleifen zur Verbesserung der Haptik	1
+Verbesserung der Recommendation Engine verzögert sich aufgrund zu geringer Datenmengen	1
+Skalierungg der Prozesse über beide Lagerstandorte hinweg aktuell fraglich, es fehlen noch Datenpunkte	1
+gesonderte vermarktung des b2b-anteils ist evtl. eine option für zusätzlichen umsatz ab Q4/2020	0
+zulieferung über lager in münchen schafft potenziele bruchstelle in prozesskette	1
+Logistikpartner kann aufgrund bestehender Größenvorteile die Abwicklung günstiger machen (=> besserer Case)	0
+Chinesisches Neujahrsfest fürht zu schlechterer Erreichbarkeit bzw. Bug Fixing bei Lieferant	1
+Implementierung von Consent Management Funktionalitäten verursacht ungeplante Aufwände	1
+Schnittstelle des Lieferanten weicht von der abgestimmten API-Spezifikation ab - Korrektur dauert zwischen 2 und 3 Wochen.	1
+content team schließt partnerschaft wodurch aufwand für content produktion sinkt	0
+Integration Testing startet nur mit Verzögerung, weil Dev und Prod nicht identisch sind (konkret: Abweichung in Virtualisierung)	1
+Wenn DVG in Karft tritt, ist mit einer beschleunigten Zertifizierung der app als Medizinprodukt zu rechnen (ab ca. Mitte 2020)	0
+Geschäftsführung schließt Vertrag mit strategischem partner und es entsteht weitere umsatzquelle	0
+Deployment erst ab Montag im Test, Verzögerung >3 Tage führt zu Schubstange, Mitigation kaum machbar	1
+click through rate steigt mit grad der gelernten anzeigen copy	0
+Missverständnisse aufgrund sprachbarriere mit off shore entwicklern (vor allem ui)	1
+Betroffene Kunden vertrieblich nicht effizient genug erreichbar	1
+Analyse Pipeline für unstrukturierte Testdaten erfordert mehr annotierte Daten, die ggf. schwierig zu bekommrn sind	1
+UI-Übersetzung verzögert sich um ca. 5 Tage	1
+Schubstangeneffekt aus inkompatiblen API-Levels	1
+Rücklaufquote der Fragebögen von Kunden ist aufgrund Involvment ggf. höher	0
+Wirtschaftsprüfung stellt Eigenkapitalnachweis trotz Feiertag kurzfristig aus	0
+Bottleneck im Marketing bei Launch von Kampagne 3	1
+Scheduler verheddern sich aufgrund zu langer API-Latenzen	1
+Zusatzaufwand mit Rechnungsläufen aufgrund veralteter Adressen	1
+Langfristige ausgerichtete Entwicklung und Marketing schaffen Freiräume	0
+Wöchentlicher Deep Dive shcafft gemeinsame Basis zu Themen	0
+Büros in Co-Working Space können vergrößert werden und sind bis Q3 genutzt werden	0
+Ansatz bzgl. continouos learning hält Team Motivation dauerhaft aufrecht	0
+Kein Interesse bei KHD an Zusammenarbeit in früher Phase mit nur relativ geringer Kundenzahl	1
+Datenpunkte zu Preiselastizität der Nachfrage noch relativ dünn, daher Risiko für Umsatzhöhe	1
+Reproduzierbarkeit der Machine Learning Experimente über Management Tools schafft Rücksprungpunkte	0
+Team Blau dauerhafte bessere Performance als Team Rot, dadurch Disbalanace im Gesamtteam	1
+Datenverlust bei Migration	1
+Fehlende Kompatibilität zwischen APIs	1
+ML Pipeline nach Umbau effizienter	0
+Tausch der C-Modelle erhöht Effektivität	0
+Strategie-Offsite in München klärt Fragen bzgl. Organisation und Kommunikation	0
+Verzögerung in Partnering-Vertragsschluss wegen Klausel Nr. 5	1
+Vorgezogener Jahresabschluss in Fonds erzeugt verfrühten Aufwand	1
+Büro-Umzug kann sukzessive vorbereitet werden und vermeidet so Big Bang Aufwand	0
+Wortmarke für B2B-Anteil ggf nicht schutzfähig in markenrechtlicher Hinsicht	1
+Provisionsbasiertes Partnermodell vertraglich zeitnah einsatzbereit	0
+Paketdienstleister-Entgelt für Adressnachermittlung durch eigene Daten bzw. API abwendbar	0
+Preis-Premium könnte mittels kostenfreier NEM-Beigabe realisiert bzw. abgesichert werden	0
+Vertrag zur ADV mit HP noch nicht gezeichnet aber notwendig vor Go-Live	1
+Systematische Datenorientierung kann unsere Entwicklungsgeschwindigkeit langfristig unterstützen	0
+Wachsende Reichweite von DHI erleichtert Zugang zu neuem Investoren	0
+Entwickler müssen kurzfristig Zulieferungen einkaufen, aber Prozess zur Freigabe zu lang	1
+Verbesserung der Protokolle erhöht Transparenz im Team	0
+Anbindung zwischen DST und Amazon SageMaker erhöht Effizienz im Deployment	0
+Tokenzier bzw. Stemmer verschlechtern Ergebnisse des Classifiers, Problem noch nicht erklärbar	1
+Mit Inkrafttreten des DVG wächst der Markt für digitale Gesundheitslösungen	0
+Wettbewerber legt Fokus auf ABV und vernachlässigt User Experience zu sehr	0
+Auftrag an weiteren Logistik-Dienstleister erhöht Flexibilität	0
+DST unterstützt nur CLI aber nicht Immersive	1
+Datenbasis für Chatbot-Erweiterung wahrscheinlich groß genug für Use Case 3	0
+Engpässe in UX-Team ab ca. Mitte Dezember	1
+Pipelining von CI1 auf CI2 bietet noch Möglichkeit für weitere Pakete	0
+Kapazitätsengpässe bei Marketing-Agentur gegen Ende Februar 2020	1
+Übersicht der TOMs noch nicht final abgestimmt, Risiko für Go-Live	1
+Zusammenarbeit mit KH ermöglicht schnelleres Neukundenwachstum	0
+UI-Tests mit neuem iPhone 11 noch zu planen und durchzuführen, Effekte auf Implementierung offen	1
+Risiko, dass Cloud-Anbieter für DST seinen Service überraschend abschaltet	0
+Workshop zur Finalisierung des Pitch Decks zu kurzfristig für ausreichende Vorbereitung	1
+Wöchentlicher Strategie Jour Fixe operationalisiert langfristiges Denken/ Ausrichtung	0
+NEM-Prototyp kann schon in zwei Wochen in erster Version geliefert werden	0
+Vergleich von Data Science Management Tools verzögert sich aufgrund fehlender Kapazität im Team	1
+Rechtliche Grenzen für Joint Marketing mit KH-Partner in Deutschland	1
+Ansprechpartner beim Amtsgericht diese Woche nicht erreichbar und Vertretung ist nicht informiert, daher Verzögerung	1
+Zu wenige Entwickler in Q4	1
+Optimierung der Hyperparameter könnte noch ein paar Tage länger dauern	1
+Kopierbarkeit des Geschäftsmodells in der Anfangsphase	1
+DATEV-Schnittstelle zu E-Commerce Backend beschleunigt monatlichen VSt-Prozess	0
+Positives Feedback der Krankenkassen unterstützt Gespräche mit Investoren	0
+IDW-Ansatz zur Bewertung verkürzt Diskussionen	0
+Produktdesign von Hauptwettbewerber verbessert sich nicht und spricht andere Zielgruppe an	0
+Chatbot erhöht Conversion Rate	0
+Betreiber der Management-Plattform schaltet seinen Dienst ab und wir müssen migrieren	1
+Offsite zu Produkt-Roadmap klärt offene Fragen zwischen Produktteam und Geschäftsführung	0
+Speicherbedarf für Modelle geringer als im Case angenommen	0
+Verträge mit Fotomodel bzgl. Produktfotos noch nicht geschlossen	1
+Zeitverschiebung zu Offshore-Entwicklern verzögert Abstimmungen	1
+Kosten für Traffic könnten ab Q3/2020 ca. 5 Prozent über Plan liegen	1
+Code-Qualität von OffShoreDev besser als erwartet	0
+Geschäftsführung schätzt langfristige Orientierung mehr als kurzfristige Optimierung	0
+Abschluss der Systemtests erfolgreich und mit Hinweisen auf zukünftige Verbesserungen	0
+Core noch auf neue Infrastruktur zu verteilen, bisher nicht getestet	1
+Fragebögenrücklauf vor Weihnachten nur verzögert, daher ggf. spätere Analyse	1
+Hero Devices für Android werden verspätet aufgesetzt, dadurch kürzerer Testzeitraum	1
+Qualitatives Feedback von Kunden enthält Hinweise auf besondere Produkte (ABC-Analyse)	0
+Qualitatives Feedback von Kunden enthält Hinweise auf zusätzliche Bedarfe	0
+Binding in core zu streng, reduziert ggf. flexibilität in späterer entwicklung	1
+Call-Aufkommen ab Q2/2020 vermutlich höher als geplant, Umfang unklar	1
+Burnrate unter Plan verlängert financial runway	0
+Investoren-Feedback kommt sehr kurzfristig vor Weihnachten und erfordert Arbeit über Feiertage	1
+Bisher unberücksichtigte Vertriebschance: Empfehlung durch Ärzte im zahnmedizinischen Bereich	0
+Min SDK Version für Android App noch nicht im Team abgestimmt, ggf. Verzug	1
+Zusammenarbeit mit Arztpraxen beschleunigt Absatz	0
+Mlöglicher Wechsel auf PyTorch noch nicht vollständig bewertet	1
+Offsite in Q1/2020 noch nicht terminiert und Kapazitätsbindung unklar	1
+Infrastruktur für Content Network vermutlich bzgl. manuellem Aufwand nicht gut skalierbar	1
+Due Diligence für MM-Beteiligung zieht sich bis Ende Januar 2020 hin	1
+Binäre Classifier nicht mehr lange ausreichend	1
+Produktdesign für Prduktlinie 2 kommt 4 bis 6 tage später	1
+Content Network kann von effizienterer Content-Erstellung und Zweitverwertung profitieren	0
+Skalierung des Teams in Q2/2020 noch nicht mit Recruiter abgestimmt, ggf. Verzug möglich	1
+Chance aus Hinweisen (weak signals) während Inevstorengesprächen	0
+Sprunggelenksbandentzündung mit fast identischem Produkt bedienbar wie MVP	0
+Due Diligence zu Ende Q1/2020 ggf. aufwändiger aufgrund heterogener Vertragslage	1
+Risiko, dass Digitalprodukt nicht vom materiellen Produkt entkoppelbar ist	1
+Kundenhochlauf nach ersten Markttests vermutlich etwas steiler als geplant	0
+Verzögerung in iPhone-Tests	1
+Wettbewerbsvorteil aus Daten könnte größer sein als bisher angenommen	0
+Akquise weiterer Daten kann Cold-Start-Problem für neue Machine Learning Verfahren abschwächen	0
+Wachsende Anzahl an relevanten Inzidenzen aufgrund demografischen Wandels	0
+API-Level der Android-App mit GF noch zu entscheiden, Risiko für umsetzbare Features	1
+Schnellerer Test der neuen Produkte aufgrund schlankerer Abläufe im Team	0
+Foundation v6.6.x wird Ende des Jahres 2019 veröffentlicht, Aufwand zum Schwenk noch nicht bewertet	1
+Akquise von Clickstream Data durch Kooperation möglich	0
+Verzögerte Implementierung von neuem UI für Chatbot	1
+Generierung von Daten ist einfacher skalierbar als Software Engineering, dadurch höhere Umsatzcchancen	0
+Chatbot-Test verzögert aufgrund Kapazitätsengpass	0
+Verzögerter Test auf Android-Tablets	1
+Krankenkassenveträge potenzieller Partner ggf. Hinderungsgrund für Kooperation	1
+Review des Business Cases wird investorenseitig ggf. erst kurz vor Weihnachten abgeschlossen	1
+Umsatzschätzung bzgl. BDG neu zu erstellen, Risiko für Zeitplan, Puffer fraglich	1
+Gesellschafterversammlung stimmt NEM-Markteinführung ggf. nicht zu	1
+Code-Review evtl. erst in ca. 6 Tagen abgeschlossen	1
+Entkoppelte Vermarktung von DHI	0
+Liste der Hero Devices für Android noch nicht final, ggf. Verzug dadurch	1
+Risiko, dass keine Einigkeit bzgl. strategischer Fragen der Produkt-Roadmap erreicht wird	1
+Beweislast für Rechtfertigung von Streichpreisen liegt beim Verkäufer	1
+Verzug aufgrund späterer Zulieferung	1
+Migration auf MariaDB ist noch nicht vollständig geplant, Risiko der Verzögerung	1
+Fehler im Callback-Handler auf DPE noch nicht analysiert	1
+Chance auf Insights durch qualitatives Feedback von besonderes begeisterten Kunden	0
+Marktpotenzial im Ausdauersport mit geringer Produktanpassung hebbar	0
+Personalwechsel auf Investorenseite führt ggf. zu Zusatzaufwand bei uns wegen mangelhafter Übergabe	1
+Überarbeitung der Datenschutzerklärung wird bereits nähcste Woche fertig	0
+Interesse an Kooperation seitens Startup-Inkubator eröffnet neue Chancen für Portfolio	0
+Noch stärkere Ausrichtung auf Mobile Content könnte CPC und ggf. CPS optimieren	0
+Akquise von Daten effizienter machbar als in erster Planung	0
+Data Analytics stärker automatisierbar als in erster Planung	0
+Zulieferung von Daten als Geschäftspotenzial	0
+Verzug bei Tests mit iPads	1
+Kooperation mit weiterem E-Commerce-Unternehmen ermöglicht Zusatzumsatz	0
+Analyse von weak signals bietet potenzial für diversifikation	0
+Steigende Bereitschaft von Betroffenen zur Selbstzahlung von Gesundheitsleistungen	0
+DVG vergrößert Gesundheitsmarkt	0
+Ansätze zur Data Valuation noch in frühem Stadium und Belastbarkeit teilweise offen	1
+Ochsentour durch Bugs verzögert sich	1
+Neue Data Use Cases mit Krankenkassen bieten Potenzial zur Effizienzsteigerung	0
+GF verschiebt Entscheidung über NEM-Einführung	1
+Positive Reaktion auf Ansätze zu Explainable AI nach Veröffentlichung unserer Ansätze möglich	0
+Neue Version von Foundation mit WebView unter Android noch nicht vollständig gestestet	1
+Elderly Care Platform als vielversprechendes Zielbild für BM3	0
+Ökosystem mit CM als neue Chance für Vertrieb	0
+Strategischer Vorteil durch Daten ist größer als durch Talente	0
+Krankheit im UI-Team	1
+Verzug der Zulieferung von UI-Bibliotheken	1
+Stärkere Ausdifferenzierung von Landing Pages verbessert CPS	0
+Zusatzprodukt GK verbessert Deckungsbeitrag	0
+Zusatzproudkt DP verbessert Deckungsbeitrag	0
+Datenexport dauert länger	1
+Unerwarteter Aufwand aufgrund Codierung von Textdaten in UTF-8 vs. Windows-1252	1
+Latenz der Quell-APIs verschlechtert sich bei steigendem Query-Aufkommen	1
+Veraltete Onboarding-Unterlagen teilweise noch im Umlauf	1
+Cost per Lead bzw. Cost per Sale ca. 8 Cent höher als in bisheriger BC Annahme	1
+Abkopplung des Daten-Geschäftsmodells in neue Firma schafft Freiräume	0
+Android API Level noch in Diskussion und noch mit Abstimmungsbedarf	1
+Billing von Server-Leistungen mit Controlling zu aufwändig	1
+Effektiveres Onboarding aufgrund neuen Prozesses und Toolings	0
+Burnrate geringer als angenommen, dadurch ggf. Finanzierungsrunde später durchführbar	0
+Vertragsmarathon bindet mehr Ressourcen als gedacht	1
+Marktwachstum durch Verabschiedung des DVG	0
+Risiko von sehr stark wachsendem Speicherbedarf aufgrund fehlender Serialisierung an Quelle	1
+Wachsende Akzeptanz von digitalen Gesundheitsleistungen in der Bevölkerung	0
+Weitere Fokussierung der Ads-Zielgruppe könnte SEA nochmal effizienter machen	0
+Interne APIs zur Datenbereitstellung steigern Effizienz im Data Engineering	0
+Rechtsrisiko bei Streichpreisen relativ hoch, daher Zeitraum immer vorab definieren	1
+Bewertung von Weak Signals bietet ggf. bisher unentdeckte Chancen für Data Business	0
+Etnscheidung zu Messeteilnahmen noch nicht getroffen, ggf. Verpassen von Deadlines	1
+Mögliche Wettbewerbsvorteile aus Domain Knowledge und Daten noch nicht umfassend bewertet	0
+Android: Min SDK Version ggf. geringer ansetzbar und damit breitere Nutzergruppe möglich	0
+Öffentliche Diskussion zu Explainable AI schafft Investoren Awareness und neue Funds	0
+WebView unter Android könnte neue Website-Elemente fehlerhaft darstellen	1
