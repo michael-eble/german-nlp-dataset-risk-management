@@ -9,5 +9,5 @@ License: CC-BY-4.0, see https://choosealicense.com/licenses/cc-by-4.0/
 - Each record of the text data set is labelled as follows: 1 = the issue is a risk, 0 = the issue is a chance
 
 # Current status of the data set
-- Number of text data records with label "risk": 51
-- Number of text data records with label "chance": 51
+- Number of text data records labelled as "risk": 200
+- Number of text data records labelled as "chance": 200
