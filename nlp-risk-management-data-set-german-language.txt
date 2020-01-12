@@ -1,36 +1,36 @@
-Design der NEM-Dose testet in neuer Version besser in Zielgruppe	0
-Stückkosten je NEM-Dose wahrscheinlich 5 Cent niedriger als im BC hinterlegt	0
-Kundenlinien für Backend-Skalierung und Marketing-Kampagne weichen voneinander ab	1
-Cost per Sale kann durch vermehrten Einsatz von FBA gesenkt werden	0
-Beschleunigtes Verafhren zur Freigabe von Rechnungen erhöht Prozesseffizienz	0
-CAC steigen wegen EuGH-Urteil zu Cookies	1
-analyse von mvp daten zeigt bisher unbekannte marktpotenziale	0
-Freigabe neuer Produkte verzögert sich aufgrund MDR bzw. nur weniger benannter Stellen	1
-Produkt roadmap wird von investment committee nicht akzeptiert	1
+datengetriebene produktentwicklung differenziert unternehmen vom wettbewerb und bei partnern	0
+verhandlung mit strat. Partner geht schneller	0
+Organisation der Entwicklung ist noch nicht ausreichend auf Teamwachstum vorbereitet	1
+Ressourcenengpass in UI Team im April 2020	1
+Bug Bucket 3 wird erst in Iteration 8 gefixt	1
+Release Container 6 verzögert sich um 14 Tage	1
+Verzögerter Vertragsschluss mit ITSec DL	1
+Content-Lizenz tendenziell günstiger als erwartet	0
+Cloud DS Lösung kann Analytics Team flexibler machen	0
 gdpr ist chance für positionierungg als vertrauenswürdiges unternehmeb	0
 freelancer hat zugelieferte klassen noch in Python 2 implementiert und kann sie nicht schnell genug auf Python 3 heben	1
 DPMA lehnt Eintragung der Wortmarke für Digitalprodukt ab	1
 Vortrag der geschäftsführung zu Erfahrunggen auf Digitalkonferenz ist zu früh und macht wettbewerb aufmerksam	1
-GDPR wird als Chance begriffen und erlaubt Positionierung über Ethical AI u.ä.	0
-Zusätzliche Erkältungswelle im Winter bringt erhöhten Traffic und steigert Bestellvolumen	0
-Digitalprodukt als kostenlose Beigabe fördertt Absatz des materiellen Produkts	0
-bestehenderr kontakt zu startup magazinen hilft bei sicherung der bekanttheit für nächste finanzierungsrunde	0
-MVP bietet vor kunde keinen ausreichenden nutzen was zu schwächerem hochlauf führt	1
-Märkte in AT und CH sind stille reserve für rollout ab mitte 2020	0
-machine learning verfahren werden nur verzögert implementiert bzw. auf produktion gebracht	1
-Verzögerungg bei Lieferung der UX-Elemente hat Schubstangeneffekt auf Launch-Termin des MVP	1
-Zulieferung des Vorprodukts enthält kein CE-Prüfzeichen und erfüllt damit nicht die gesetzlichen Anforderungen in Deutschland.	1
-Zielmarke erreicht nicth rechtzeitig den rechtlichen Schutz, um sie nutzen zu können	1
-Produktion von content kann durch externe Kräfte beschleunigt werden	0
-Größere Mengen im Einkauf der Vorprodukte reduziert Stückkosten	0
+Fallback-Option für strategischen Investor sichert Finance-Roadmap ab	0
+In SEA zwischen Surrogate Seekers und Self Seekers abschichten erhöht SEA-Effizienz	0
+Financial Audit könnte sich zeitlich verzögern aufgrund Diskussion um Digital Asset Valuation	1
+In neuen Büros könnte Internet/ WLAN erst verspätet verfügbar sein	1
+Surrogate Seeking in SEO-Strategie stärker berücksichtigen für mehr Reichweite	0
+Positive medizinische Effekte aus Studien unterstützen Kundenbindung	0
+Technische Abbildung der Prozesskette für Dropshipping noch nicht tief genug verstanden	1
+Zertifizierung für NEM-Produkte wird bereits in 2019 realisiert	0
+Übereignung von Assets anstatt GesKauf beschleunigt Finanzierung	0
+Reco Datasets (Epinions, Pinterest, …) für unsere Zwecke nicht geeignet, Aufbau eigener Sets nötig	1
+Einkaufsvorteile bzgl. NEM-Produkte ggf. drei Monate früher erreichbar, Höhe noch in Prüfung	0
+Anbindung von Zahlungsdienstleistern reduziert Ausfallrisiko aufgrund Bonitätsprüfung	0
 Resturlaub wird zum Jahresende abgebaut und Team ist nur noch eingeschränkt im Einsatz	1
 Kooperation mit Partner bzw. Influencer bringt zusätzliche Reichweite in Social Media	0
 Vertrieb über medizinische Fachkräfte aus rechtlichen Gründen ggf. nicht zulässig	1
 Kooperation mit Arzneimittelhersteller reduziert produktionskosten für folgeprodukt	0
 Lagerkosten: Reduzierung durch Outsourcing möglich	0
 steigender cpa bzw. cps vershclechtert den case	1
-datengetriebene produktentwicklung differenziert unternehmen vom wettbewerb und bei partnern	0
-verhandlung mit strat. Partner geht schneller	0
+Lokale Backuplösung noch nicht implementiert	1
+SAFe kann Chance zur Strukturierung der Softwareentwicklung sein	0
 Produkt roadmap wird durch management top down kurzfristig umgestellt	1
 Differenzierung der Preispunkte sind für Kunden nicht nachvollziehbar/ nur schwierig zu verstehen, was Umsatz limitiert	1
 Finanzierungsrunde ist mir höherer Bewertung umsetzbar und bringt mehr finanziellen Spielraum	0
@@ -47,11 +47,11 @@ Höhere Mengeb führen zu reduzierten Stückpreisen	0
 agile entwicklung erfordert education auf investoren seite um committment zu behalten	1
 dvg schafft einen neuen markt den wir nutzen können	0
 Neuer Experte für Wareneinkauf erreicth weitere Effizienzen	0
-Ab zweitem Produkt greifen Lerneffekte wodurch die Iterationen effektiver bzw. effizienter werden	0
-Fehlendes CE-Prüfzeichen auf Vorprodukt könnte rechtliche Risiken haben, Klärung durch Jurist noch offen	1
-aufbau von content netzwerk reduziert cost per cllick bzw. cost per sale	0
-reduktion der kosten im wareneinkauf durch größere mengen realisierbar	0
-dvg wird durch bundesrat verabschiedet und tritt für 2020 in Kraft	0
+Data Acquisition Pipeline noch länger mit Fehlern behaftet führt zu Risiko von Folgefehlern	1
+Preiselastizitäten der Zugabeprodukte noch nicht vollständig abgesichert	1
+Net Promoter Score fällt höher aus als gem. Research erwartet	0
+Eigenes Monitoring-System für Traffic noch in Plattform zu integrieren, APIs noch nicht final definiert	1
+Pipeline-Integration für Recommender System könnte sich verzögern	1
 Chance auf Zusatzgeschäft im Bereich Beta lässt sich realisieren	0
 Genehmigung für Arzeinmittelangebot liegt zwei Wochen früher vor als erwartet	0
 Pricing wird nicht angenommen	1
@@ -146,10 +146,10 @@ Unnötig komplizierte Abhängigkeiten zwischen Plattformkomponenten müssen noch en
 Werte im Team schaffen langfristig starken Zusammenhang	0
 Österreich und Schweiz können ggf. schon ab Q4/2020 erschlossen werden	0
 Freigabe der Labels für NEM in Iteration dauert wegen rechtlicher Vorgaben evtl. etwas länger	1
-Konzentration auf Android Hero Devices würde Fokus der Tests ermöglichen und sie beschleunigen	0
-UI-Kit beschleunigt zukünftige Markttests der weiteren Produkte	0
-Die Infrastruktur skaliert nicht in ausreichendem Maß, so dass Engpässe bei steigender Nutzerzahl entstehen. 	1
-Notar macht Fehler in Gesellschaftsvertrag, wodurch sich HR-Eintragung der neuen operativen GmbH verzögert	1
+Operative Details in Kooperationsverträgen länger in Dikussion als angemommen (KPIs)	1
+Steuerung der ML Cycles noch nicth fehlrefrei	1
+CI Pipeline noch nicht fehlerfrei	1
+Fehler in Wirkkette aufgrund Komplexität nur langsam analysierbar	1
 Style Guide mit ersten visuellen Rahmenbedingungen bereits nächste Woche zur Freigabe in GF-Meeting	0
 Produktbündel mit NEM und TM in Produktion für MVP ggf. zu komplex und Vereinfachung nötig	1
 Risiko bzgl. Planungsansätze und fehlender Details über Dienstleisterpläne	1
@@ -188,10 +188,10 @@ Heterogenität der Android-Versionen bzw. Endgeräte verlangsamt das Testing	1
 Erster Test des Chatbots kann ggf. zehn Tage früher starten, wenn wir das Sunrise-Feature weglassen	0
 Produktion der NEM könnte für das MVP bereits im Februar 2020 beginnen, falls Hersteller die Kapazität hat	0
 Im Checkout ist Einwilligung bzgl. Feedback-Mail rechtlich erforderlich, kann jedoch Warenkorb-Abbrüche erhöhen	1
-Hochlauf des Partner-Ökosystems verzögert sich aufgrund von Problemen in der technischen Anbindung	1
-Lagerkapazitäten können durch unmittelbaren Wiederversand nach Wareneingang effizienter genutzt werden	0
-Deckungsbeitrag steigt durch erhöhten Absatz des Digitalprodukts weiter an	0
-MVP ist in Iteration 1 zu komplex bzw. wird von Pilotkunden nicht ausreichend verstanden	1
+Mehr Management-Kapa ermöglicht Team-Skalierung	0
+Ersatz der linearen Verfahren durch Neural Nets verbessert Analyseeffektivität	0
+Lager 1 läuft schneller leer als Lager 2	1
+Über Weihnachtsfeiertage keine Postdurchsicht im Büro	1
 Einbindung des Consent Managers erfordert Anpassung der JavaScript Ausspielung und hat Seiteneffekte	1
 Effizienzgewinne aus Beteiligung von strategischem Investor in Q4/2020 realisierbar	0
 Büroräume reichen nur noch bis ca. Ende Mai 2020	1
@@ -268,11 +268,11 @@ Wettbewerber legt Fokus auf ABV und vernachlässigt User Experience zu sehr	0
 Auftrag an weiteren Logistik-Dienstleister erhöht Flexibilität	0
 DST unterstützt nur CLI aber nicht Immersive	1
 Datenbasis für Chatbot-Erweiterung wahrscheinlich groß genug für Use Case 3	0
-Engpässe in UX-Team ab ca. Mitte Dezember	1
-Pipelining von CI1 auf CI2 bietet noch Möglichkeit für weitere Pakete	0
-Kapazitätsengpässe bei Marketing-Agentur gegen Ende Februar 2020	1
-Übersicht der TOMs noch nicht final abgestimmt, Risiko für Go-Live	1
-Zusammenarbeit mit KH ermöglicht schnelleres Neukundenwachstum	0
+Skills in SAFe noch nicht ausreichend aufgebaut	1
+Feedback der Kunden aus MVP könnte bzgl. medizinischem Nutzen positiver ausfalle als erwartet	0
+Interesse der Krankenkassen könnte mit Verabschiedung des DVG steigen	0
+Plesk Wartungsmodus fehlerhaft	1
+Docker Container müssen nochmal angefasst werden, dadurch ungeplanter Aufwand als Risiko	1
 UI-Tests mit neuem iPhone 11 noch zu planen und durchzuführen, Effekte auf Implementierung offen	1
 Risiko, dass Cloud-Anbieter für DST seinen Service überraschend abschaltet	0
 Workshop zur Finalisierung des Pitch Decks zu kurzfristig für ausreichende Vorbereitung	1
@@ -316,11 +316,11 @@ Infrastruktur für Content Network vermutlich bzgl. manuellem Aufwand nicht gut s
 Due Diligence für MM-Beteiligung zieht sich bis Ende Januar 2020 hin	1
 Binäre Classifier nicht mehr lange ausreichend	1
 Produktdesign für Prduktlinie 2 kommt 4 bis 6 tage später	1
-Content Network kann von effizienterer Content-Erstellung und Zweitverwertung profitieren	0
-Skalierung des Teams in Q2/2020 noch nicht mit Recruiter abgestimmt, ggf. Verzug möglich	1
-Chance aus Hinweisen (weak signals) während Inevstorengesprächen	0
-Sprunggelenksbandentzündung mit fast identischem Produkt bedienbar wie MVP	0
-Due Diligence zu Ende Q1/2020 ggf. aufwändiger aufgrund heterogener Vertragslage	1
+Digitalprodukt als kostenlose Beigabe fördertt Absatz des materiellen Produkts	0
+bestehenderr kontakt zu startup magazinen hilft bei sicherung der bekanttheit für nächste finanzierungsrunde	0
+MVP bietet vor kunde keinen ausreichenden nutzen was zu schwächerem hochlauf führt	1
+Märkte in AT und CH sind stille reserve für rollout ab mitte 2020	0
+machine learning verfahren werden nur verzögert implementiert bzw. auf produktion gebracht	1
 Risiko, dass Digitalprodukt nicht vom materiellen Produkt entkoppelbar ist	1
 Kundenhochlauf nach ersten Markttests vermutlich etwas steiler als geplant	0
 Verzögerung in iPhone-Tests	1
@@ -342,11 +342,11 @@ Gesellschafterversammlung stimmt NEM-Markteinführung ggf. nicht zu	1
 Code-Review evtl. erst in ca. 6 Tagen abgeschlossen	1
 Entkoppelte Vermarktung von DHI	0
 Liste der Hero Devices für Android noch nicht final, ggf. Verzug dadurch	1
-Risiko, dass keine Einigkeit bzgl. strategischer Fragen der Produkt-Roadmap erreicht wird	1
-Beweislast für Rechtfertigung von Streichpreisen liegt beim Verkäufer	1
-Verzug aufgrund späterer Zulieferung	1
-Migration auf MariaDB ist noch nicht vollständig geplant, Risiko der Verzögerung	1
-Fehler im Callback-Handler auf DPE noch nicht analysiert	1
+Ab zweitem Produkt greifen Lerneffekte wodurch die Iterationen effektiver bzw. effizienter werden	0
+Fehlendes CE-Prüfzeichen auf Vorprodukt könnte rechtliche Risiken haben, Klärung durch Jurist noch offen	1
+aufbau von content netzwerk reduziert cost per cllick bzw. cost per sale	0
+reduktion der kosten im wareneinkauf durch größere mengen realisierbar	0
+dvg wird durch bundesrat verabschiedet und tritt für 2020 in Kraft	0
 Chance auf Insights durch qualitatives Feedback von besonderes begeisterten Kunden	0
 Marktpotenzial im Ausdauersport mit geringer Produktanpassung hebbar	0
 Personalwechsel auf Investorenseite führt ggf. zu Zusatzaufwand bei uns wegen mangelhafter Übergabe	1
@@ -373,10 +373,10 @@ Strategischer Vorteil durch Daten ist größer als durch Talente	0
 Krankheit im UI-Team	1
 Verzug der Zulieferung von UI-Bibliotheken	1
 Stärkere Ausdifferenzierung von Landing Pages verbessert CPS	0
-Zusatzprodukt GK verbessert Deckungsbeitrag	0
-Zusatzproudkt DP verbessert Deckungsbeitrag	0
-Datenexport dauert länger	1
-Unerwarteter Aufwand aufgrund Codierung von Textdaten in UTF-8 vs. Windows-1252	1
+NEM-Zusammensetzung nach Überarbeitung günstiger im Einkauf bzw. in Produktion	0
+Testimonals über Agentur schon am Mai verfügbar	0
+Influencer-Strategie kann extern entwickelt werden	0
+Bundling von RB mit NEM könnte Deckungsbeitrag verbessern	0
 Latenz der Quell-APIs verschlechtert sich bei steigendem Query-Aufkommen	1
 Veraltete Onboarding-Unterlagen teilweise noch im Umlauf	1
 Cost per Lead bzw. Cost per Sale ca. 8 Cent höher als in bisheriger BC Annahme	1
@@ -398,3 +398,609 @@ Mögliche Wettbewerbsvorteile aus Domain Knowledge und Daten noch nicht umfassend
 Android: Min SDK Version ggf. geringer ansetzbar und damit breitere Nutzergruppe möglich	0
 Öffentliche Diskussion zu Explainable AI schafft Investoren Awareness und neue Funds	0
 WebView unter Android könnte neue Website-Elemente fehlerhaft darstellen	1
+Design der NEM-Dose testet in neuer Version besser in Zielgruppe	0
+Stückkosten je NEM-Dose wahrscheinlich 5 Cent niedriger als im BC hinterlegt	0
+Kundenlinien für Backend-Skalierung und Marketing-Kampagne weichen voneinander ab	1
+Cost per Sale kann durch vermehrten Einsatz von FBA gesenkt werden	0
+Beschleunigtes Verafhren zur Freigabe von Rechnungen erhöht Prozesseffizienz	0
+CAC steigen wegen EuGH-Urteil zu Cookies	1
+analyse von mvp daten zeigt bisher unbekannte marktpotenziale	0
+Freigabe neuer Produkte verzögert sich aufgrund MDR bzw. nur weniger benannter Stellen	1
+Produkt roadmap wird von investment committee nicht akzeptiert	1
+Zusätzlicher Traffic auf Content-Netzwerk günstiger realisierbar	0
+Wachstums des organischen Traffics stärker als angenommen	0
+Organischer Traffic durch neue SEO-Maßnahmen noch höher	0
+Pitch bei HUB beschleunigt Funding-Prozess	0
+Backend-Störung während Jahreswechsel	1
+AutoML eröffnet tiefere Analysen für nicht-technische Mitarbeiterinnen und Mitarbeiter	0
+Verbesserung von ICD10-Zuordnung durch Spark NLP EntityResolver	0
+Beteiligung an Innovation Ecosystem	0
+Benchmarking Data für neue Verfahren noch nicht festgelegt	1
+Integration in Accelerator wäre Chance	0
+Ports auf HMB noch nicht abgesichert	1
+Auswahl des Video-Dienstleisters verzögert sich möglicherweise	1
+Portfolio-Analyse von fünf VCs erlaubt Auswahl auch anhand Matching mit anderen Portfolio-Unternehmen	0
+EU Startup Summit - Chance für Pitch und Kontakte	0
+Neue Performance Evaluierung von AutoML-Werkzeugen spart uns Arbeit	0
+Lokale RAID-Systeme noch nicht fertig konfiguriert, Verkabelung tbd.	1
+Effektiverere SEA-Ansprache über Konzepte des Surrogate Seeking realisierbar	0
+Teaser-Produktion verzögert sich ggf. aufgrund noch nicht final abgestimmtem Call to Action	1
+Konzentration auf Schmerzlinderung anstatt Funktionsverbesserung erhöht Kundenzufriedenheit	0
+warenannahme im büro noch nicht für alle lieferanten auf lager 1 geroutet	1
+Grenzkosten im Kundenservice auf DL-Seite optimierbar	0
+Risiko eines Strategieschwenks bei potenziellem Lead-Investor	1
+Organischer Traffic weiter erhöhbar durch zusätzliche Nodes im Content Network	0
+Beteiligungsverträge noch nicht ins Englische übersetzt, jedoch nötig	1
+Splittung der Product Proposition auf emotionale und funktionale Komponente verbessert USP	0
+Analytics für Pre-Sale-Phase können ohne Cookies realisiert werden	0
+Interdepdenzen zwischen Consent Manager und Analytics-Backend noch nicht tief genug geklärt	1
+Im Team noch kein gemeinsames Verständnis aller Implikationen des DVG	1
+Daten-Annotation verzögert sich	1
+verzögertes hiring aufgrund year end rally	1
+Migration zwischen Plattformen für ML Daten/ Experimente ist technisch kaum möglich	1
+Responsive Design der Produktseite muss noch auf weiteren Endgeräten durchgetest werden	1
+EIT Health schafft neue Kontakte und Investorenzugänge	0
+parallele sea kampagnen führen zu höheren abstimmungsbedarfen	1
+Rücklauf aus Kundenbefragung fällt geringer aus als erforderlich	1
+Methoden-Workshop an Uni ermöglichen Zugang zu studentischen Mitarbeitern	0
+"Erhöhte Transparenz für Informationsfluss durch Meeting-Kalender (""Stundenplan"")"	1
+verspätete einstellung von mitarbeiterin im brand marketing	1
+Datenmodellierung für neuen Use Case nicht rechtzeitig abgeschlossen	1
+Rechtliche Klärung zu ESOP verzögert sich	1
+Anzahl der Neubestellungen übersteigt Kapazitäten an Packstraße	1
+Entkopplung von Neukundengewinnung und Umsatz durch Abomodell möglich	0
+Ermittlung der medizinischen Wirkungen noch aufzuplanen	0
+eigene datenbanken mit annotierten textdaten sind großes geschäftspotenzial	0
+checkout-prozess noch nicht ausreichend in allen browsern getestet	1
+Aufwände von Anbindung von Amazon Pay noch nicht geschätzt	1
+Apache Spark NLP liefert bessere Accuracy und Spped im Vergleich zu spaCy	0
+Langzeitdaten aus Content Network unterstützen Erkennung von Trends	0
+Sehr gute Dokumentationslage macht Due Diligence effizienter	0
+Organisches Wachstum aus Umsätzen ab Q4/2020 möglich	0
+Verspätung der komponenten lieferungen	1
+mangelhafte qualität 	1
+Refactoring der Ingest-Strecke macht Data Acquisition effizienter und reduziert Anfälligkeit	0
+Content Analysis noch nicht vollständig reproduzierbar	1
+Venture-Pitch muss noch vorbereitet werden, bindet Kapazitäten, dadurch ggf. Verzug an anderer Stelle	1
+Kontaktanbahnung zu strategischem Käufer könnte länger dauern als erwartet	0
+Verfügbare Tools zur Annotation von Textdaten erfüllen nicht alle Anforderungen	1
+Google nimmt Textanzeigen in 2020 vom Markt und stellt auf Responsive Only um, durch uns noch in SEA abzubilden	1
+Fake the Door Test mit breiter KW-Streuung schafft breiteren Optionsraum	0
+Langfristiger Wert von eigenen und annotierten Daten kann höher sein als aktuell geschätzt	0
+Integration von externem Consent Management könnte negativen Effekt auf Seitenladezeiten haben	1
+Fragestellungen der 3 Fokus-Krankenkassen erfordern zusätzliche strategische Analyse und folglich Zusatzaufwand	1
+Priorisierung von Geschwindigkeit schafft Technical Dept, die in Q1/2020 abgebaut werden muss	1
+Anzeigentexte für B-Produkt werden verspätet zugeliefert	1
+Finalisierung der Zielmarke erfolgt zu spät	1
+Vermittlung von weiteren Führungskräften durch Investoren-Kontakte	0
+sales funnel ist online ggf. nicht detailliert genug messbar	1
+Verkürzung der Kampagnen-Zeiträume von 2 auf 1 Woche kann effektivität verbessern	0
+informationen an partner legen strategie zu früh im markt offen	1
+Hochlauf des Partner-Ökosystems verzögert sich aufgrund von Problemen in der technischen Anbindung	1
+Lagerkapazitäten können durch unmittelbaren Wiederversand nach Wareneingang effizienter genutzt werden	0
+Deckungsbeitrag steigt durch erhöhten Absatz des Digitalprodukts weiter an	0
+MVP ist in Iteration 1 zu komplex bzw. wird von Pilotkunden nicht ausreichend verstanden	1
+WLAN-Bereitstellung im Büro verzögert sich	1
+Discounted Cash Flow Rechnung erst verspätet abgeschlossen	1
+systeme zum monitoring mehrerer kampagnen nicht in sync	1
+Bewertung der Medizin-Komponenten von SparkNLP zieht sich in die Länge	1
+zahlungsströme aus kundeneinzahlungen und lieferantenauszahlungen ab Q1/2020 verändert	1
+Kooperation mit Hochschule ermöglicht Zugang zu neuen Mitarbeiterinnen und Mitarbeitern	0
+Idee der Spielemechaniken für Data Annotation ermöglicht effektivere Einbindung des Teams	0
+Gemeinsames Sport-Event mit Team stärkt Zusammengehörigkeitsgefühl	0
+deutlicher performance schub durch einbindung von spaCy 2.2	0
+Recuriting von Führungskräften wird durch ESOP deutlich verbessert	0
+Strukturen und Prozesse für Multi-Produkt-Management nicht rechtzeitig aufgesetzt	1
+Organischer Traffic aus Lexikon-Ansatz von KAINF weiter steigerbar	0
+CTR für C-Produkt nach ersten Messungen tendenziell höher als gemäß Case erwartet	0
+Deutschland-Karte aus Holz mit Magneten erhöht Transparenz über Neukundenwachstum	0
+python webserver parallel zu apache webservern erhöhen flexibilität	0
+Arztkooperationen generieren neue Insights	0
+netzwerkinfrastruktur in Q1/2020 nochmal zu überarbeiten	1
+Strategie-Fragen der 3 Fokus-Krankenkassen bieten Zukunftspotenzial	0
+ESOP-Haltedauer mit GF und Gesellschaftern nicht rechtzeitig abgestimmt	1
+Anzahl der Frameworks und Programmiersprachen steigt weiter und damit die Komplexität des Gesamtsystems	1
+Founding Team hat mittelfristig zu hohe Workload	1
+vertragslaufzeiten mit dienstleistern überschreiten sinnvolle zeit	1
+tech skills in marketing team langfristig nicht ausreichend	1
+Positive Rückmeldung und Interesse an Partner-Ökosystem von Early Adopters	0
+Lager 1 geht zeitnah leer	1
+umleitung der warenannahme von büro auf lager 1 noch nicht abgestimmt	1
+Ports auf AGT noch vulnerable	1
+Churn-Anstieg im nächsten Quartal	1
+Rechtliche Absicherung der Zielmarke noch nicht final geklärt	1
+Gleichzeitigkeit von Kampagnen schafft internen Wettbewerb um Keywords	1
+Eignung der Systeme zum Monitoring mehreer Kampganen noch offen	1
+Vorprüfung durch WPG beschleunigt spätere Beteiligungsgespräche	0
+Umsetzung von A/B-Tests mit eigenem Analytics-Backend einfacher	0
+Kürzere Sprints am Anfang effektiver	0
+Engere Zusammenarbeit mit Krankenkassen vor Ort verbessert Verständnis für Prozessspezifika	0
+Neues Projekt mit Startup-Hub eröffnet neue Kooperationsmöglichkeiten	0
+Bessere ML-Verfahren durch BERT-Implementierung	0
+Microsoft Icebreaker kann langfristig Aufwand für Datengenerierung zum Modelltraining reduziert	0
+Schwenk auf Spark NLP in 2020 kann Effektivität und Effizienz verbessern	0
+Angepasste Sicherheitsleitlinien berücksichtigen Branchenspezifika noch besser	0
+Verbandsarbeit verbessert Verständnis für MedTech-Branche im Team	0
+Team-Event bei Offsite für noch mehr Teamzusammenhalt	0
+YoY-Preissteigerungen im Versand noch nicht für alle Dienstleister im Case dynamisiert	1
+Hausbank kann SEPA-Verfahren erst freischalten, wenn Gläubigernummer der Bundesbank vorliegt	1
+Vertragsentwurf für Kooperation mit KDL erfordert noch mindestens zwei Review-Schleifen	1
+Risiko der Inkompatibilität zwischen MySQL und MariaDB	1
+Surrogate Seeking noch stärker adressieren für höhere Click through Rate	0
+Durch eigene Analytics Engine werden wir unabhängig von Google Analytics	0
+Abbau der Technical Dept verschlankt Tech Stack	0
+Produktanalage und Landing-Page-Entwicklung wird von Kampagne zu Kampagne effizienter	0
+Absagen potenzieller Partner schaffen immerhin Informationsgewinn	0
+Zusammenarbeit mit Hochschule ermöglicht effizient neue Insights aus Forschung	0
+Längere Lieferzeiten schaffen Unzufriedenheit bei Kundinnen und Kunden	1
+Abomodelle in Deutschland generell etwas schwierig, jedoch durch Testphase startbar	1
+NPS aus Kundenbefragung verbessert Social Proof in Folge-Kampagnen	0
+Company-Hoodie steigert wahrgenommene Qualität des Starter Kits für neue Mitarbeiter	0
+Ungestützte Bewerbungen beschleunigen Recruiting	0
+Lagerbestand in Lager 1 geht schneller zur Neige als geplant	1
+annotated data hilft bei skalierung des geschäftsmodells	0
+Termin mit ZK-Vorstand führt zu neuen Erkenntnissen bzgl. Proposition	0
+verlust von bestelldaten vor abwicklung	1
+Evaluation der medizinischen Effekte durch etabliertes Standard-Instrument reduziert Methodeneffekte	0
+Anorganischer Traffic wird mittelfristig güngstiger als er es anfangs ist	0
+Stärkere Nutzung von Python ab Q2/2020 erhöht Flexibilität für Data Analytics	0
+Liquidation Preferences in ESOP nicht verständlich genug	1
+Testläufe gehen schneller	0
+Code-Review in Team bzw. zu mehreren verbessert Code-Qualität	0
+Höhere Kundenzufriedenheit nach Schmerzfokus	0
+Stabilität von Einkaufspreisen ungewiss	1
+Engpässe in UX-Team ab ca. Mitte Dezember	1
+Pipelining von CI1 auf CI2 bietet noch Möglichkeit für weitere Pakete	0
+Kapazitätsengpässe bei Marketing-Agentur gegen Ende Februar 2020	1
+Übersicht der TOMs noch nicht final abgestimmt, Risiko für Go-Live	1
+Zusammenarbeit mit KH ermöglicht schnelleres Neukundenwachstum	0
+Support-Roboter für Menschen zuhause kann ggf. mit unserem Produkt verbunden werden, ggf. größerer Markt	0
+Neue MA schneller geonboaarded als zuvor	0
+Ochsentour entlang Fehler vertieft gemeinsames Verständnis	0
+Cross-Promotion mit ITD verbessert Deckungsbeitrag bei physischem Produkt	0
+Customer Lifetime Value langfristig weiter steigerbar durch EC-Produkte	0
+verzug im tech recruiting	1
+beteiligung an branchenverband öffnet türen zu relevanten branchenkontakten	0
+ICD11 tritt im Januar 2022 im Kraft und die Migration von ICD10 auf ICD11 ist noch nicht geplant	1
+Grundumsatz in 2020 kann teilweise zur Finanzierung von Wachstum genug werden	0
+wechselwirkungen aus zahlungsströmen bei dropshipping mit risiken	1
+Neue spaCy-Version bringt BERT-Implementierung mit und verbessert Ergebnisse	0
+kundenbefragung führt zu mehr ausgefüllten fragebögen als gedacht	0
+WPG-Prüfung bindet kurzfristig wichtige Kapazität der GF	1
+Konsolidierung bis Sommer 2020 	0
+Informal Assessment durch externe Berater hilft bei Verbesserung des Geschhäftsmodells	0
+Lagerbestand von Lager 2 reduziert sich schneller als angenommen	1
+Dropshipping über zwei Dienstleister reduziert Ausfälle und verbesser Customer Experience	0
+Performance der Staging-Umgebung für E-Commerce-Backend auf neuer Hardware besser	0
+feedback aus informal audit liefert hinweise zu optimierung von finanzierungsrunde	0
+Spielmechaniken in eigenem Annotationstool schaffen dauerhaften Anreiz zur Verwendung	0
+Reporting-Struktur noch nicht für Multi-Produkt-Management ausgelegt	1
+Alarm-Funktion für neue Bestellungen erhöht Commitment im Büro	0
+Wettbewerber aus Hamburg stellt seinen Betrieb ein wegen Streit im Gesellschafterkreis	0
+Community-Manager bündelt alle Aktivitäten der Kommunikation	0
+Reco-System anhand Daten von Kooperationspartner effizienter trainierbar	0
+automatisches monitoring relevanter insights reduziert aufwand in produktentwicklung	0
+Steigende Google Authority des Content Networks resultiert in sinkendem Aufwand für organischen Traffic	0
+Kontakt zwischen Daten und Team wird durch Spielemechanik im Annotationstoll erhöht	0
+Cookie-less Analytics noch nicht final aufgeplant bzgl. Aufwand	1
+1-wöchige sea kampagnen reichen aus und es sind nicht 2 wochen nötig	0
+Neue Kontakte über Business Angel Netzwerk für Finanzierungsrunde	0
+strukturen für multi-produkt-management müssen parallel zu produktentwicklung aufgebaut werden	1
+geringerer cash flow erhöht flexibilität in year end	0
+Wettbewerb hält an veralteten Marketingansätzen fest	0
+Weitere Traffic-Analysen in Q1/2020 steigern Effektivität im Marketing	0
+validere daten und mehr unabhängigkeit durch eigenes analytics backend	0
+Deutschland-Karte mit Bestellorten liefert einfach zu verstehende Botschaft in Partnergesprächen	0
+Differenzierung des Pricings zwischen Normal- und Kampagnen-Preis auch über Landing Page	0
+Steigende Aufwände für Kundensupport können nicht ausreichend abgefangen werden	1
+Einbruch in Neukundenlinie ohne erklärbare Ursache	1
+Deliverables zu Meilenstein 3 werden nicht rechtzeitig abgenommen	1
+Strukturierung des ESOP und Kommunikation im Team verzögert sich	1
+Case könnte nicht alle Kostenelastizitäten angemessen berücksichtigen	1
+leak auf investorenseite durch mitarbeiter die den fond verlassen	1
+support nicht schnell genug erreichbar	1
+Dauerfristverlängerung für operative GmbHs schafft Freiraum in Administration	0
+Lager 1 ist vor Lager 2 aufgebaut, erhöht ggf. Koordinationsaufwand	1
+Veröffentlichung von Backend-Komponenten als Open Source erhöht Attraktivität im Recruiting	0
+Analyse weiterer Conversion-Daten verbessert Verständnis von Erfolgsfaktoren	0
+neu büroverkabelung bereits zu ende januar realisierbar	0
+vertragsbindung an dienstleister zu lang	1
+Weiterentwicklung der Beteiligungsstrukturen bindet Kapazität der Geschäftsführung	1
+Identifikation von Erfolgsfaktoren für Therapiemaßnahmen erfordert noch größeren Datenpool	1
+parallel laufende kampagnen erhöhen organisatorische komplexität	1
+Integration von eigenem Annotations-Tool in Plattform schafft langfristig mehr Flexibilität	0
+leak der neuen produkte	1
+produkt wird nihct angenommen	1
+Zeitaufwand für Erstellung des Investoren-Reportings steigt weiter stark an	1
+größenvorteile im einkauf hebbar	0
+Hochschul-Kooperation vereinfacht Zugang zu Talenten	0
+Annotations-Tools sind nur eingeschränkt für unsere Zwecke geeignet	1
+Verzögerte Annotation der neuen Textdaten	1
+ESOP wird für Investoren in Folgerunden zu kompliziert	1
+Aufwände für die Einbindung von PayPal noch nicht geschätzt	1
+Partnering-Strategie erfolgsversprechender bei Differenzierung nach Zielgruppen	0
+Unterschiedliches Verständdnis über Ampel-Status schafft Missverständnisse	1
+Schnittstellen zu Krankenkassensystemen tendenziell sehr schwerfällig	1
+kapazitätsengpässe in geschäftsführung während gesprächen mit investoren	1
+verzug im marketing recruiting	1
+Medizinische Evaluation verzögert sich bis Ende Q1/2020	1
+belastung der geschäftsführung mittelfristig zu hoch	1
+customer lifetime value durch partnering langfristig höher	0
+Weitere Ressource für AutoML kann Automatisierung und Effizienz steigern	0
+Stufenweise Finanzierung bzw. Skalierung reduziert Risiko für Investoren	0
+packstraße in lager 1 noch nicht auf retour abgestimmt	1
+Organischer Traffic kann anorganischen Traffci erst verspätet substituieren	1
+schlechte lieferqualität bei herstelller	1
+junge designsprache auch für ältere zielgruppe ansprechend	0
+schnellere skalierung	0
+nutzungsfrequenz höher	0
+Burnrate in Q1/2020 geringer als im Plan hinterlegt	0
+Umzug in neue Büros - Infrastruktur dort ggf. verzögert fertig	1
+Verzögerter Launch der Ziel-Marke führt zu höheren Parallelaufwänden in Kommunikation	1
+intransparenz von sunrise kann verunsicherung bei mitarbeitern auslösen	1
+Gespräche mit Partnern ziehen sich in die Länge	1
+Heterogenität der Programmiersprachen kann Recruiting von Tech Staff erschweren	1
+Stärkerer Social Proof durch Kunden-Feedback bereits ab frühen Produkt-Iterationen	0
+Darstellung aller Neukunden auf Deutschland-Karte schafft visuelle Präsenz	0
+interne workshops und schulungen zu data-driven business verbessern gemeinsames verständnis	0
+einkauf teurer	1
+outsourcing des supports verbaut uns direkten kundenkontakt	1
+Ideen für neue Produkte aus Innovation Ecosystem generierbar	0
+lokaler storage für testdaten nicht rechtzeitig erweitert	1
+datenbank crasht und es gehen daten verloren	1
+Vorträge in Uni-Seminaren ermöglichen Zugang zu Studenten und Absolventen	0
+Skalierung des Backends ggf. zu unelastisch	1
+reduzierte technical dept vereinfacht entwicklung ab q2/2020	0
+data-driven approach in jedem meeting schafft hocheffektive diskussionskultur	0
+Fehlende Einheitlichkeit der Benennung von Phasen führt zu Missverständnissen zwischen Teams	1
+retour handling deutlich schneller	0
+vorprodukte werden günstiger	0
+Auswertung der Kundenbefragung zu medizinischen Aspekten ermöglicht stärkere Fokussierung der Produktleistung	0
+Ermittlung von Erfolgsfaktoren der Reha-Vermittlung erfordert noch mehr Domänenwissen	1
+Beschleunigte Generierung von Kundenfeedback durch parallele Vertriebskampagnen	0
+Zu Beginn der Produkt-Entwicklung eher kürzere Sprints schaffen besseres Team-Gefühl	0
+risiko der defokussierung	1
+Prozesssicht auf IT-Entwicklung sichert bessere IT-Unterstützung	0
+reiseaufwand steigt weiter	1
+Konzept der Informationsrepertoires könnte Marktkommunikation verbessern	0
+Weitere IT-Fehler bei der Bank verzögern Prozesse erneut	1
+Besonderheiten des Österreichischen Gesundheitsmarkts noch nicht genug verstanden	1
+Anpassung der Rechtstexte durch zusätzlichen Anwalt schneller machbar	0
+Investoren-Reports werden umfangreicher als gedacht	1
+produktleistung nicht verständlich genug	1
+Support-Manager bündelt alle Insights aus Kundensupport und Kundenrückfragen	0
+Neukunden-Zähler wirkt motivierend	0
+Qualität der Ergebnisse bzgl. ICD10 aus SparkNLP noch nicht abschätzbar	1
+kompletter neustart der entwicklung von 10X-Produkt ermöglicht neuen fokus	0
+kündigung von key staff	1
+Rücklauf bzw. Entscheidung von Lead-Investor könnte sich um mehrere Wochen verzögern	1
+Zusatzprodukt GK verbessert Deckungsbeitrag	0
+Zusatzproudkt DP verbessert Deckungsbeitrag	0
+Datenexport dauert länger	1
+Unerwarteter Aufwand aufgrund Codierung von Textdaten in UTF-8 vs. Windows-1252	1
+Connectivity in neuen Offices ist nicht zu unterschätzendes Risiko	1
+Game Mechanics sind vermutlich nützlich für Einbindung der Teams in die Daten-Annotation	0
+Regelmäßiger Kontakt zu Uni schafft Opportunitys für Abschlussarbeiten der Studierenden	0
+Langzeitdaten über mehrere Jahre analysierbar durch Betrieb von Content Networks	0
+Recruiting über Fachmedien bietet bisher unberücksichtiges Potenzial	0
+Heben aller MySQL-Datenbanken auf neue Version kann zu Ausfällen führen	1
+Hackathon-Teilnahmen in 2019 schaffen Kontakte zu potenziellen Mitarbeiterinnen und Mitarbeitern	0
+ESOP über einen Standard-Vertrag hält Komplexität der Due Diligence niedrig	0
+Neues Office-Setup (Schreibtische, Monitore, …) steigert Wohlbefinden im Büro	0
+prozesskette für rücknahme und aufbereitung nicht rechtzeitig zum launch in q3/2019 aufgesetzt	1
+ansprache von weiteren potenziellen partnern führt auch bei absagen zu erkenntnissen	0
+Steigende Aufwände an Packstraße nicht abbildbar	1
+Neue Wettbewerber durch Zusammenschluss in ECP Joint Venture	1
+Workshop mit Dienstleistern stellt gleiches Verständnis der Roadmap sicher	0
+Verspätete Rückmeldung von Lead-Investor zu Strategie-Fokus	1
+Reproduzierbarkeit von Kampagnen offen	1
+Rechercheverhalten der Surrogate Seekers noch nicht ausreichend verstanden	1
+Ausweitung von Crowd Sourcing erhöht Effizienz	0
+laufzeiten der lieferantenverträge zu lange	1
+Verzug der Tests des Backends ab Q1/2020	1
+Mitarbeiterinnen und Mitarbeiter verstehen ESOP-Verträge nicht tief genug und sind ggf. verunsichert	1
+Abschluss der Themen aus 2019 verursachen Aufwand noch in Q1/2020	1
+Community-Manager bündelt Insights aus Community-Interaktion	0
+Projekt-Struktur der Labeling-Projekt schafft Klarheit	0
+Messbarkeit im Vertrieb noch nicht final durchdrungen	1
+Verkürzung der Sprints von 4 auf 3 Wochen erhöht Agilität und Flexibität	0
+Kosten für Data Analytics steigen ab ca. Mitte Q3/2020 schneller als geplant	1
+produket im einkauf teurer	1
+jüngere designsprache trifft nerv der zielgruppe besser	0
+release party führt zu höherer team motivation	0
+Tiefere Analyse von Kaufabbrüchen hilft bei Verbesserung von Folgekampagnen	0
+Finalisierung des Meeting-Kalenders verzögert sich	1
+neuer kreativitätsschub in der produktentwicklung durch künstliche restriktion	0
+Abgabe des Supports an Dienstleister verschlechtert Verständnis für Kundenbedarf	1
+Schulungen zu Aufbau und Vetrieb von digitalen Gesundheitslösungen verbessert Zusammenarbeit in Teams	0
+fehlende einigung über kommunikationstools	1
+reisekosten höher als im case erfasst	1
+Termin mit LIT-Vorstand verbessert Verständnis für Positionierung	0
+usp des produkts für ausstehende noch nicht klar genug	1
+Projekt Sunrise generiert zusätzlichen Overhead und führt zu Verlust von Fokus	1
+Positive Sternebewertung der Pilotkunden wirkt als Social Proof für Neukunden	0
+Risiko des Verlusts von Schlüsselmitarbeitern	1
+Prominente Darstellung jeder Neubestellung wirkt im Büro motivierend	0
+weiterentwickelte management ansätze für lager 1 und 2 machen uns schneller	0
+Alignment mit Investoren erfordert höheren Kommunikationsaufwand als geplant	1
+erhöhte kosten für vorporodukte	1
+spaCy 2.2 verspricht sehr starke verbesserungen in geschwindigkeit und genauigkeit	0
+eigenes annotationstools ermöglicht besseren zuschnitt auf unseren bedarf	0
+ausschluss von keywords reduzieren irrelevanten traffic	0
+MySQL und MariaDB in Parallelbetrieb ggf. fehleranfällig, Bewertung offen	1
+Markenentwicklung aufgrund der Vorarbeit zu Persona und Positionierung schneller umsetzbar	0
+Eigene Weiterbildungsformate zu Data Analytics und Data Business steigern Motivation und Effektivität	0
+Deckungsbeitragsoptimierung nach Iteration 7 möglich	0
+Gleichzeitige SEA-Kampagnen ermöglichen effizienteres Markt-Feedback	0
+Refactoring von Analytics-Plattform erhöht Produktvität der Produktentwicklung	0
+Überarbeitete Sicherheitsrichtlinien schaffen besseres Verständnis für das Warum, Was und Wie	0
+Freiwilliger und proaktiver Audit erhöht Vertrauen bei Investoren und Stakeholdern	0
+Unterstützung in Research für Qualitätsbewertung von Forenkommunikation	0
+Chancen aus BERT und weiteren Forschungsergebnissen zu NLP in 2019	0
+Verzug der Bereitstellung von annotierten Trainingsdaten	1
+Ausfall bei Lieferant	1
+Holz-Version der Deutschlandkarte mit Bestellorten erhöht Motivation	0
+SQLAlchemy auf Python Webservern haben nur geringen Ressourcenbedarf	0
+Nach Produkt-Fokussierung muss Außenverpackung neu vermessen und produziert werden, Risiko für Verzug im Versand	1
+SEPA-Lastschrift erfordert Gläubigernummer der Bundesbank, die noch nicht vorliegt	1
+Nutzung von Strategien im deutschen Gesundheitsmarkt für die Schweiz unsicher	1
+Zeitplanung für Finanzierungsrunden in 2020 ermöglicht langfristige Ausrrichtung und Gespräche	0
+Reichweite von Online-Content kann wachsen bei Berücksichtigung von Surrogate Seeking	0
+Eignung der einzelnen NEM-Komponenten nocch nicht abschließend bewertet	1
+Cloud-Lösungen für Backend in Standard Plans langfristig keine kosteneffiziente variante	1
+parallel laufende kampagnen erhöhen technische komplexität	1
+qualitätsmanagement bei dropshipping schwierig	1
+Counter für Neukunden bzw. neue Bestellungen trägt positiv zur Motivation bei	0
+schlechte execution bei paketdienstleister	1
+Verzug bei Backend-Tests	1
+ESOP erhöht Komplexität bzw. Aufwände am langen Ende	1
+keine einheitliche phasennamen können missverständnisse zwischen teams verursachen	1
+Krankenstand bei Launch wegen Grippewelle hoch	1
+zusätzlicher aufwand in GF durch workshops am wochenende	1
+Portfolio analyse bringt klarheit in schwerpunkte ab q3/2020	0
+verunsicherung im team durch sunrise bzw. fehlende kenntnis und infos	1
+Neue Kontakte von World Health Summit mit Interesse an Startup	0
+Kundenlinie schneller skalierbar durch gleichzeitiges hochfahren von mehreren kampagnen	0
+kreativitätsschub aus offsite beschleunigt produktentwicklung	0
+Aussteuerung von Marketing-Ansprache nach Tageszeiten steigert Effektivität	0
+Recruiting-Potenzial aus Hackathon-Teilnahme in 2020	0
+unpünktliche lieferung	1
+Conversion Rate für X10-Produkt noch nicht validie genug	1
+Mapping von ICD10 auf ICD11 bis 2022 noch offen	1
+Proaktiver Audit resultiert in hohen Zusatzaufwänden	1
+Datenbereinigung wurd durch Automatisierung effizienter	0
+Komplete Neuanlage der Konten seitens der Bank notwendig	1
+Identifier zum Mergen von Datasets noch nicht abgestimmt	1
+wettbewerb zu stark auf bestandsgeschäft konzentriert und keine neuentwicklung von geschäftsmodellen	0
+Kampagnen-Handler schaffen Join-Möglichkeit über alle Systeme hinweg	0
+Backend-Heterogenität erschwert Wartung	1
+Weitere Kapazität beschleunigt medizinishe Evaluation	0
+Sterne-Bewertungen nach Auswertung der Kunden-Umfragen verstärkt Social Proof	0
+Logiken von Spielen können Einbindung von MA in Text-Annotation verbessern	0
+Reporting noch nicht an Parallel-Kampagnen angepasst	1
+Überforderung der Teams durch Gleichzeitigkeit der Ereignisse	1
+Neue Designs testen in Zielgruppe besser	0
+Roboter-Hersteller für Heimbereich als möglicher Komplementärpartner	0
+Cloud-Service für Task Management wird in Q2/2020 vom Netz genommen, Migration erzeugt Zusatzaufwand	1
+Weitere Ochsentour durch Bugs schafft Abschluss des Themas	0
+Auto-WEKA, auto-sklearn, Receipe, ML-PLOT und TPOT erfüllen unsere Anforderungen ggf. nicht ausreichend	1
+Mehr-Wort-Suchen helfen bei Verständnis des Kundenbedarsf	0
+parllele vermarktung von zwei produkten schafft neue management komplexität	1
+Pitch Deck für Partnering-Gespräche wird verspätet fertiggestellt	1
+Targeting-Mechanismen und Zielgruppen-Abgrenzung für Parallel-Kampagnen noch nicht hinreichend abgestimmt	1
+Analytics Pipeline muss stöärker modularisiert werden jedoch Kapazitäten nicht ausreichend	1
+Aufbau der Influencer-Kontakte erst nach Finalisierung der Marketing-Strategie möglich	1
+Fehler im Checkout-Prozess verhindert Bestellungen während laufender Kampagne	1
+Onboarding kann verbessert werden durch eigene App bz. Tools	0
+Gründung neuer GmbH für Digital-Produkte bindet mehr Kapazität als verkraftbar	1
+radikal ansatz für refactoring reduziert technical dept schneller als bisher geplant	0
+UTM Data ggf. über Kampagnen hinweg nicht einheitlich strukturiert	0
+Kein automatisches Testen der SEPA-Buchungsstrecke möglich	1
+Meeting zu ESOP-Strukturen schafft Klarheit und gemeinsames Verständnis im Team	0
+Tiefere Beschäftigung mit AutoML schafft Basis für stärkere Automatisierung in 2020	0
+text classification wird spürbar besser durch update auf spaCy 2.2	0
+Kooperation mit Uni-Lehrstuhl ermöglicht Kontakte zu interessierten Studierenden	0
+Roadmap 2020 schafft Streamlining	0
+datenbankmigration auf produktion parallel zu kampagnenlaunch erhöht technisches ausfallrisiko	1
+Mitarbeit mit Accelerator ermöglicht effektiveres Recruiting	0
+TLS SSL Zertifikate müssen noch neu vergeben werden, Aufwand kommt on top	1
+Neue DS-Umgebung verbessert Reproduzierbarkeit	0
+Preispunkte nicht rechtzeitig bis Kampagnenstart final	1
+Netzwerkeffekte bereits ab Q3/2020 realisierbar	0
+Zusatzaufwand für CP an Packstraße in Lager 1 nicht realisierbar	1
+Markteintrittsbarrieren für 10X-Produkt für Startup zu hoch	1
+Systemaufwall während hochphase	1
+python library strategie noch nicht abgestimmt bzgl. zulässiger lizenzen	1
+substitutionseffekt von orrganischem traffic ggü. anorganischem traffic noch nicht ausreichend quantifiziert	1
+backend könnte nicht ausreichend skalieren	1
+Nur eingeschränkte vergleichbarkeit von payment plans der cloud anbieter	1
+urlaubsabbau kumuliert im Januar 2020	1
+Server-Ausfall über Weihnachten	1
+Lagerdienstleister reduziert Handling-Kosten gegenüber Baseline	0
+nur kurzes zeitfenster für anpassung aller designs an target brand	1
+Restriktiverer Keyword-Ansatz in Targeting führt zu spitzerer Zielgruppe	0
+Lieferung von Analytics an Krankenkassen erhöht Kooperationsbereitschaft anderer Partner	0
+Zielgruppe des ATK-Produkts ist für Partnering höher als andere Zielgruppen	0
+Branding auf Zielmarke schafft Streamlining der Kommunikation	0
+rahmenbedingung für rasperry pi skalierung schaffen kreativität durch restriktion	0
+organischer traffic wird mit steigender authority günstiger	0
+Nutzen einer AmazonPay-Anbindung noch nicht bewertet	1
+Modularisierung der Analytics Pipeline ermöglicht parallen Einsatz von spaCy und Spark NLP	1
+Cookie-less Ansatz zur Website-Analyse macht Marketing unabhängiger von Cookie-Beschränkung	0
+Kooperation mit weiterem Business Angel kann positive Effekte aus seinen Erfahrungen bringen	0
+ESOP könnte wirksames Mittel zur mittelfristigen Mitarbeiter-Incentivierung sein	0
+Tracking von Cross-Promotions ist bisher nicht in Roadmap-Planung des Backends drin	1
+Test des Chatbot-Ansatzes im Marketing schließt ggf. größere Zielgruppen aus	1
+Startup-T-Shirts schaffen Erkennungswert auf Hackathons	0
+Technical Dept kann nicht schnell genug abgebaut werden	1
+Zugang zu Literatur für systematische SotA-Analyse	0
+Implementierung von Datenexport schafft zusätzliche positive Wahrnehmung bei Kunden	0
+verlust von data durch anwenderfehler	1
+Meeting-Kalender noch nicht mit allen Stakeholdern abgestimmt	1
+Einheitlichkeit der ESOP-Verträge vereinfacht spätere Due Diligence	0
+Kaufangebot von strategischem Käufer kommt früher als geplant	1
+Seminare an Uni schaffen Zugang zu Absolventen der BWL	0
+Existierende Tools zur Text-Annotation erfüllen unsere Anforderungen nicht	1
+operative hektik frisst zeitfenster für strategische planung auf	1
+Anwendbarkeit von Strategien in DE-Gesundheitsmarkt auf AT fraglich	1
+Plattformmodell wird von Neu-Investoren ohne Medizin-Hintergrund nur schwer verstanden, zusätzlicher Kommunikationsaufwand	1
+neue content angebote in extrem kurzer zeit zu produzieren	1
+All Hands Meeting mit Dienstleistern räumt mit offenen Punkten auf	0
+einfachere api implemtation durch open source nutzung	0
+management paralleler kampagnen erhöht meeting bedarf	1
+Dauerhafte Mehrarbeit am Wochenende kann zu Motivationsverlust führen	1
+Embedded Consultants nehmen Strategie-interne mit zu Wettbewerbern	1
+sota research für neuproduktentwicklung dauert länger	1
+Anorganischer Traffic aus Facebook lässt sich weiter steigern	0
+Content Network kann von effizienterer Content-Erstellung und Zweitverwertung profitieren	0
+Skalierung des Teams in Q2/2020 noch nicht mit Recruiter abgestimmt, ggf. Verzug möglich	1
+Chance aus Hinweisen (weak signals) während Inevstorengesprächen	0
+Sprunggelenksbandentzündung mit fast identischem Produkt bedienbar wie MVP	0
+Due Diligence zu Ende Q1/2020 ggf. aufwändiger aufgrund heterogener Vertragslage	1
+Churn steigt	1
+data loss in production	1
+Recruiting-Erfolge könnten erst verzögert eintreten	1
+Weitere Zahlungsdienstleister im Shop-UI reduzieren Abbruchrate im Warenkorb	0
+Klick-Pfad-Analyse wird nach EUGH-Urteil schwieriger	1
+Gaming-Mechaniken in Annotationstool erhöhen Teilnahmebereitschaft	0
+Darstellung einer Team-Seite auf Produkt-Website erhöht Risiko des Abwerbens von Mitarbeitern	1
+Mitarbeit in MedTech-Verband bringt relevante Neukontakte	0
+Provenienz-System im E-Commerce-Backend hat Lücke in OPD	1
+Überarbeiteter Business Case erhöht Klarheit der Strategie weiter	0
+Content Delivery Network aufgrund Caching-Problemen ggf. unter Performance-Erwartung	1
+SEA-Fokus auf junge Zielgruppe umfasst ggf. auch Surrogate Seekers, bindet also indirekt ältere Zielgruppe ein	0
+Schlüsselmitarbeiter verlassen das Unternehmen	1
+Bug im E-Commerce-Backend ermöglicht Doppelbestellung in Kostenfreier Test Phase	1
+NEM-Beigabe erfordert ggf. erneute Anpassung der Außenverpackung	1
+War for Talent lokal noch nicht so stark, aber grundsätzlich gute Absolventenquote	0
+Phasen-Namen zwischen den Teams unterschiedlich, kann Missverständnisse in Planung nach sich ziehen	1
+schnellerer kundenhochlauf durch parallele kampagnen mit nicht im wettbewerb zueinanderstehenden keywords	0
+Gemeinsamer Code Review verbessert allgemeines Verständnis von technischen Zusammenhängen	0
+Patienten haben langfristig Vorbehalte ggü. Einsatz von AI in Diagnose und Therapie	1
+Rückläufer aus Befragungen könnte die 20 Prozent Hürde überschreiten	0
+höhere flexibilität durch sprints von zwei wochen anstatt drei wochen	0
+anbindung von dropshipping logik verspätet	1
+ssl zertifikate nicht rechtzeitig auf allen domains aktualisiert	1
+Voice of the Customer wirkt als Social Proof in früher Marktphase	0
+Weiterempfehlungsverhalten für zu sprunghaftem Wachstum der Neukunden	0
+Anbindung von geliefertem Consent Management Tool dauert länger aufgrund schlechter Schnittstellendoku	1
+SotA-Analyse kann beschleunigt werden durch zusätzliche Research-Ressoure	0
+Studie mit Pilot-Nutzern ermöglicht tieferes Verständnis der Bedarfe im Alltag während Krankheit	0
+Backend Outage über Feiertage	1
+SEO-Taktiken aus Marketing- und Vertriebsstrategien noch nicht vollständig abgeleitet	1
+Verlust von Daten	1
+Zusammenarbeit mit Dienstleister für Eldery Care in Plattformmodell	0
+Lieferung von Daten an Analytics-Team wird durch Automation effizienter	0
+Mehrwortsuchanfragen zu Neuprodukt in Q1/2020 können Ideen für Fokussierung der Leistungen generieren	0
+Neue Außenverpackung erst in ca. 5 Tagen an Packstraße verfügbar	1
+KD-Verschlüsselung bisher gut getestet, Fertigstellung vermutlich etwas früher als geplant	0
+Qualitätssicherung für Datenprodukt kann automatisiert werden, Chance für Effizienzsteigerung	0
+Lagerkapazitäten bereits in ca. 4 Wochen auf Zielzustand erhöhbar	0
+Neue Außenverpackung nach Produktanpassung nicht rechtzeitig in Lager 1 verfügbar	1
+Fokussierteres Targeting in SEA auf bestimmte Uhrzeit macht Werbe-Spending effizienter	0
+Nach Analyse des medizinischen Feedbacks der Kunden bzgl. Symptomeffekte ist Produkt-Fokussierung möglich	0
+Verfrühte Bereitstellung von Prototypen nur für Messe hätte negativen Impact auf Entwicklung	1
+Pitch vor neuem VCs bereits im Juni reduziert Risiko der Folgefinanzierung	0
+Beteiligung an Verbandsarbeit eröffnet neue Branchenkontakte	0
+Shortlist der Security-Dienstleister kann früher abgestimmt werden	0
+Transparenz in Consent Management hat positiven Effekt auf Kundenvertrauen	0
+Risiko, dass keine Einigkeit bzgl. strategischer Fragen der Produkt-Roadmap erreicht wird	1
+Beweislast für Rechtfertigung von Streichpreisen liegt beim Verkäufer	1
+Verzug aufgrund späterer Zulieferung	1
+Migration auf MariaDB ist noch nicht vollständig geplant, Risiko der Verzögerung	1
+Fehler im Callback-Handler auf DPE noch nicht analysiert	1
+GDPR wird als Chance begriffen und erlaubt Positionierung über Ethical AI u.ä.	0
+Zusätzliche Erkältungswelle im Winter bringt erhöhten Traffic und steigert Bestellvolumen	0
+Fehler in Daten nach Datenbankupdate	1
+Outage in Content Network resultiert in weniger organischem Traffic	1
+Repertoireansatz könnte Kommunikation mit Betroffenen effektiver machen	0
+Cloud-Speicher für Admin-Data braucht größeres Paket	1
+Recommendation noch nicht gut genug	1
+Kooperation mit Roboter-Hersteller bietet ggf. Vertriebspotenzial	0
+Regelmäßiger Austausch in ML-Meetup generiert Input für neue Ideen	0
+Stärkere Personalisierung der Dienstleistung/ des Produkts erhöht langfristige Wachstumsperspektive	0
+Überarbeiteter Prozess bzgl. Reisen erhöht Prozesseffizienz	0
+Zahlungsausfälle zu hoch geschätzt, de facto geringer	0
+Beigabe von NEM-Produkten verbessert Kundenbindung bzw. erhöht Wiederkäufe	0
+Erhöhte Bindung vo nKapa während Due Diligence	1
+Data Cleaning kann durch weitere Automatisierung beschleunigt werden	0
+E-Commerce-Backend muss aus Sicherheitsgründen häufiger aktualisiert werden als geplant	1
+EGJ released zu spät	1
+Konzentration auf Android Hero Devices würde Fokus der Tests ermöglichen und sie beschleunigen	0
+UI-Kit beschleunigt zukünftige Markttests der weiteren Produkte	0
+Die Infrastruktur skaliert nicht in ausreichendem Maß, so dass Engpässe bei steigender Nutzerzahl entstehen. 	1
+Notar macht Fehler in Gesellschaftsvertrag, wodurch sich HR-Eintragung der neuen operativen GmbH verzögert	1
+Research zu Reha-Erfolgsfaktoren könnte neue Ansatzpunkte für Produktentwicklung bringen	0
+Mitarbeit in Hub schafft Potenzial für Recruiting	0
+Schätzung von Marktpotenzial nach weiterer Top-Seller-Analyse belastbarer	0
+Content Strategie gem. Feedback der Geschäftsführung stärker zu überarbeiten als eingeplant	1
+Besonderheiten des Schweizer Gesundheitsmarkts noch nicht genug verstanden	1
+Integration von SEA- und SEO-Strategie resultiert in Effizienzpotenzialen	0
+Tool-Beschaffung dauert zu lange und verzögert Entwicklung	1
+Positiver Zusammenhang zwischen Ethical AI und Vertrauen in Startup erhöht langfristiges Wachstumspotenzial	0
+Produktion von Videos zur Produktverwendung steigert Conversion Rate	0
+Risiko von nur linearem Wachstum über mehrere Quartale hinweg	1
+Engpass bei Recruiting-Berater	1
+Gründung einer weiteren operativen GmbH für Digitalgeschäft startet zu spät	1
+Aufwand für Rechtsberatung steigt nach EuGH-Urteil zu Cookies	1
+Bestehende KK-Verträge haben längere Kündigungsfristen als geplant	1
+Labelling von Datensätzen qualitativ hochwertig durch externe Kräfte umsetzbar	0
+Risiko des hohen administrativen Aufwands bei Vertragsverhandlungen mit Krankenkassen	1
+Abweichende Strategie für PKV im Vergleich zu GKV erforderlich	1
+Interview-Serie mit Mitarbeiterinnen und Mitarbeitern setzt ggf. Einbindung bzw. Freigabe durch Betriebsrat voraus	1
+Erweiterung der Traffic-Analysen zeigt Potenzial für neue Produkte	0
+Externe Entwickler liefern evtl. schlechten Code	1
+Zero Outage Deployment erst später möglich	1
+Nohc keine finalen Infos von Dienstleister bzgl. Redundanz des E-Commerce-Backends	1
+Unsaubere Änderung von Linkstruktur kann zu Verlust von organischem Traffic führen	1
+On-Page-Optimierungg noch nicht ausreichend beplant	1
+Analyse der KK-Datensätze in Q1/2020 könnte BizDev verbessern	0
+Zusätzliche Erkenntnisse nach Merge der neuen Datasets	0
+Zugabe von L-Produkt erhöht Gewicht und erfordert größere Versandbox	1
+Pretrained Model in NLP Spark reduzieren langfristig eigene Aufwände	0
+Zahlungsausfälle durch Dienstleister reduzierbar	0
+Go-Live mit Feature-Reduktion früher machbar	0
+Überarbeitetes UI steigert CR	0
+Verspätete Bereitsstellung der SEPA-Gläubigernummer durch Bundesbank	1
+Innnerre Produktverpackungen noch nicht optimal zu öffnen, ggf. negativer Effekt auf Customer Experience	1
+Shortlist der Investment-Interessenten reduziert Risiko einer gescheiterten Finanzierungsrunde	0
+Coding Conventions noch nicht final diskutiert	1
+Neue Abstimmung von Prozessschnittstellen reduziert Reibungsverluste	0
+Bank macht Fehler im Kontenmanagement	1
+Verschärfter Recruiting-Wettbewerb um SEO-Experten	1
+Skalierung von NoSQL-Datenbanken noch nicht ausreichend getestet	1
+Verfahren zur Personalisierung werden Business-seitig nochmal verändert, Risiko für Implementierung	1
+Umgang mit Rückläufern ohne jeglichen Hinweis des Kunden noch nicht definiert	1
+Zeichnungsprozess mit postalischem Versand von Verträgen verlangsamt Vertragsschluss	1
+Teilnahme an Digital-Messe generiert zusätzliche Bekanntheit	0
+Enge Kollaboration mit weiterer Hochschule beschleunigt Projekt	0
+Neue Unterstützung/ Ressource im Research-Bereich beschleunigt SotA-Auswertung	0
+Gemeinsame Pressekommunikation mit KL-Partner erhöht Reichweite	0
+Schnellere Case-Prüfung durch Online-Kollaboration	0
+Verbesserung des Zusammenspiels der Prozesse zur Analyse von Daten aus Kundenservice und aus Traffic-Analyse	0
+Monitoring von Vergabeportalen der Krankenkassen liefert BizDev-Potenzial	0
+Payment-Anbindung kann auf externen Dienstleister ausgelagert werden, dadurch freie interne Ressourcen	0
+Bereitstellung von Unterlagen für Due Diligence ist vermutlich schon Mitte Januar möglich	0
+Genehmigung für Befragungen vor Ort ggf. verzögert erreichbar	1
+Meta-Analyse medizinischer Studien zu Reha-Erfolgsfaktoren liefert neue Ansätze für Produkte/ Dienstleistungen	0
+Saklierung von Datenmodell noch nicht gesichert	1
+SEA-Strategie noch zu anfällig für Preissteigerungen aufgrund höheren Keyword-Wettbewerbs	1
+Neuer Engpass bei SEO-Dienstleister führt zu späterem Go Live	1
+Performance der Classification Models noch nicht gut genug, fraglich wie es besser wird	1
+Datenpunkte für Kostenschätzung noch zu dünn	1
+Kostenschätzung für DS Platform ist wackelig	1
+Algorithm Review dauert zu lange	1
+Fehler in Kundendatenbank nach Migration	1
+Systematischer Aufbau von MLOps vereinfacht spätere Skalierung	0
+Monitoring-Systeme brauchen länger bis Fertigstellung	1
+Akquise von MA ggf. über Hackathons im Health-Bereich möglich	0
+Erste ungestützte MA-Bewerbung zeigt Potenzial für Ansprache	0
+Rückmeldugg von sstrategischem Investor wegen Urlauben ggf. verespätet	1
+Scouting für Beteiligung über MM externalisierbar, dadurch freie interne Ressourcen	0
+Review der Beteiligungsverträge durch Anwälte des Käufers könnte ca. 2 Wochen länger dauern	1
+Lagerbestand der Vorprodukte in Lager 2 ggf. nicht schnell genug auffüllbar	1
+Verzögerungg bei Lieferung der UX-Elemente hat Schubstangeneffekt auf Launch-Termin des MVP	1
+Zulieferung des Vorprodukts enthält kein CE-Prüfzeichen und erfüllt damit nicht die gesetzlichen Anforderungen in Deutschland.	1
+Zielmarke erreicht nicth rechtzeitig den rechtlichen Schutz, um sie nutzen zu können	1
+Produktion von content kann durch externe Kräfte beschleunigt werden	0
+Größere Mengen im Einkauf der Vorprodukte reduziert Stückkosten	0
